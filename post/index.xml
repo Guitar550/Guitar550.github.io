@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 小威BLOG</title>
+        <link>https://guitar550.github.io/post/</link>
+        <description>Recent content in Posts on 小威BLOG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo网站在Github上的架设流程</title>
+        <link>https://guitar550.github.io/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
+        <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</guid>
+        <description>&lt;h2 id=&#34;建立流程图&#34;&gt;建立流程图
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/post/%e8%ae%a1%e7%ae%97%e6%9c%ba/Hugo%e7%bd%91%e7%ab%99%e7%9a%84%e6%9e%b6%e8%ae%be%e6%b5%81%e7%a8%8b/1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;使用主题&#34;&gt;使用主题
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/releases/tag/v0.136.5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;链接&lt;/a&gt;选择自己电脑相应版本下载hugo，并解压。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在&lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hugo themes&lt;/a&gt;下载自己喜欢的主题，并解压，打开解压的文件夹，取出&lt;strong&gt;exampleSite&lt;/strong&gt; 文件夹。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在 &lt;strong&gt;exampleSite&lt;/strong&gt; 文件夹创建一个新的文件夹，取名 &lt;strong&gt;Themes&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把刚才下载的 &lt;strong&gt;主题文件夹&lt;/strong&gt; 拖拉到 &lt;strong&gt;themes&lt;/strong&gt; 文件夹，并把主题文件夹名字中的 &lt;strong&gt;master&lt;/strong&gt; 去掉，只保留原名。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把第一步下载的hugo程序，复制到 &lt;strong&gt;exampleSite&lt;/strong&gt; 文件夹里。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打开命令提示符（cmd)，输入命令 &lt;strong&gt;hugo server&lt;/strong&gt;，即可打开预览网站。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;发布网站&#34;&gt;发布网站
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在github里建立仓库，名字为：&lt;strong&gt;用户名.github.io&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在cmd输入命令 &lt;strong&gt;hugo&lt;/strong&gt;，自动生成出&lt;strong&gt;public&lt;/strong&gt; 文件夹。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把 &lt;strong&gt;public&lt;/strong&gt; 文件夹里的文件上传到github刚创建的仓库，即可完成网站的发布。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>自己日常使用的工具</title>
+        <link>https://guitar550.github.io/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</guid>
+        <description>&lt;h2 id=&#34;笔记软件&#34;&gt;笔记软件
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Wolai&lt;/li&gt;
+&lt;li&gt;Obsidian&lt;/li&gt;
+&lt;li&gt;VS Code（编程用）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;网盘&#34;&gt;网盘
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;百度网盘&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;浏览器&#34;&gt;浏览器
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Chrome&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;任务管理类&#34;&gt;任务管理类
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;专注清单&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;播放器&#34;&gt;播放器
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;mpv&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ppt&#34;&gt;PPT
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Keynote&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;办公软件&#34;&gt;办公软件
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;LibreOffice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;档案同步&#34;&gt;档案同步
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Syncthing&lt;/li&gt;
+&lt;li&gt;LanDrop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;通讯软件&#34;&gt;通讯软件
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;微信&lt;/li&gt;
+&lt;li&gt;钉钉（上课用）&lt;/li&gt;
+&lt;li&gt;腾讯视频（上课用）&lt;/li&gt;
+&lt;li&gt;Line（不常用）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;图片制作&#34;&gt;图片制作
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Krita&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;宿主软件daw&#34;&gt;宿主软件（DAW）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Logic Pro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;制谱软件&#34;&gt;制谱软件
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;MuseScore&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;影片制作&#34;&gt;影片制作
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Final Cut Pro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;网站制作&#34;&gt;网站制作
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugo（这个网站就是用Hugo制作）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ai&#34;&gt;AI
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;ChatGPT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;订阅服务&#34;&gt;订阅服务
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Miji阅读&lt;/li&gt;
+&lt;li&gt;Moji辞书&lt;/li&gt;
+&lt;li&gt;百度网盘会员&lt;/li&gt;
+&lt;li&gt;Wolai会员&lt;/li&gt;
+&lt;li&gt;OUO VPN&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;外语学习&#34;&gt;外语学习
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Rosetta Stone（偶尔使用）&lt;/li&gt;
+&lt;li&gt;Moji辞书 &amp;amp; 阅读&lt;/li&gt;
+&lt;li&gt;欧路词典&lt;/li&gt;
+&lt;li&gt;HiNative（看外语直播）&lt;/li&gt;
+&lt;li&gt;HelloTalk（跟老外聊天）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

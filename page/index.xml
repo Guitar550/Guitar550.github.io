@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 小威BLOG</title>
+        <link>https://guitar550.github.io/page/</link>
+        <description>Recent content in Pages on 小威BLOG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>xxx</title>
+        <link>https://guitar550.github.io/xxx/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/xxx/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>分类</title>
+        <link>https://guitar550.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>联系</title>
+        <link>https://guitar550.github.io/%E8%81%94%E7%B3%BB/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/%E8%81%94%E7%B3%BB/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;微信二维码&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://s3.bmp.ovh/imgs/2024/10/31/d61ec3a16b69f7f9.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;微信二维码&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;邮箱：
+&lt;a class=&#34;link&#34; href=&#34;mailto:548101652@qq.com&#34; &gt;548101652@qq.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://guitar550.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>微精通</title>
+        <link>https://guitar550.github.io/%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
