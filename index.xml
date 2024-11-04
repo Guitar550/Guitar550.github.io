@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>小威BLOG</title>
-        <link>http://localhost:1313/</link>
+        <link>https://guitar550.github.io/</link>
         <description>Recent content on 小威BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo网站在Github上的架设流程</title>
-        <link>http://localhost:1313/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
+        <link>https://guitar550.github.io/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
         <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</guid>
-        <description>&lt;img src="http://localhost:1313/post/%E8%AE%A1%E7%AE%97%E6%9C%BA/Hugo%E7%BD%91%E7%AB%99%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/1.png" alt="Featured image of post Hugo网站在Github上的架设流程" /&gt;&lt;h2 id=&#34;建立流程图&#34;&gt;建立流程图
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/%e8%ae%a1%e7%ae%97%e6%9c%ba/Hugo%e7%bd%91%e7%ab%99%e7%9a%84%e6%9e%b6%e8%ae%be%e6%b5%81%e7%a8%8b/1.png&#34;
+        <guid>https://guitar550.github.io/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</guid>
+        <description>&lt;img src="https://guitar550.github.io/post/%E8%AE%A1%E7%AE%97%E6%9C%BA/Hugo%E7%BD%91%E7%AB%99%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/1.png" alt="Featured image of post Hugo网站在Github上的架设流程" /&gt;&lt;h2 id=&#34;建立流程图&#34;&gt;建立流程图
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/post/%e8%ae%a1%e7%ae%97%e6%9c%ba/Hugo%e7%bd%91%e7%ab%99%e7%9a%84%e6%9e%b6%e8%ae%be%e6%b5%81%e7%a8%8b/1.png&#34;
 	
 	
 	
@@ -62,70 +62,181 @@
         </item>
         <item>
         <title>什么是微精通</title>
-        <link>http://localhost:1313/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
+        <link>https://guitar550.github.io/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
         <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
+        <guid>https://guitar550.github.io/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
         <description>&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bb%80%e4%b9%88%e6%98%af%e7%b2%be%e9%80%9a&#34; &gt;什么是微精通&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%be%ae%e7%b2%be%e9%80%9a%e7%9a%84%e5%ad%a6%e4%b9%a0%e7%bb%93%e6%9e%84&#34; &gt;微精通的学习结构&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bb%80%e4%b9%88%e6%98%af%e5%be%ae%e7%b2%be%e9%80%9a&#34; &gt;什么是微精通&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%be%ae%e7%b2%be%e9%80%9a%e7%9a%84%e5%ad%a6%e4%b9%a0%e7%bb%93%e6%9e%84&#34; &gt;微精通的学习结构&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%85%a5%e9%97%a8%e6%8a%80%e5%b7%a7&#34; &gt;入门技巧&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%8d%8f%e5%90%8c%e9%9a%9c%e7%a2%8d&#34; &gt;协同障碍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%83%8c%e6%99%af%e6%94%af%e6%8c%81&#34; &gt;背景支持&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%88%90%e5%8a%9f%e5%9b%9e%e6%8a%a5&#34; &gt;成功回报&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%8f%af%e5%a4%8d%e9%aa%8c%e6%80%a7&#34; &gt;可复验性&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%8f%af%e5%ae%9e%e9%aa%8c%e6%80%a7&#34; &gt;可实验性&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;什么是微精通&#34;&gt;什么是微精通
-&lt;/h2&gt;&lt;p&gt;这是我在Robert Twigger写的《微精通》这本书中获得的概念，&lt;/p&gt;
-&lt;p&gt;简单来讲微精通的的核心思想就是：&lt;strong&gt;你可以学习任何你想学的事物，不一定要精通或者从基础开始，先从那些你在这个领域中感兴趣的方面开始学起。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;比如学习做菜，如果你只是想学会做煎蛋卷，你完全可以直接去学煎蛋卷，而不需要买一本烹饪指南从最基础的内容一点点学起。（这样会让你要浪费很多时间跟煎蛋卷不相关的内容。）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%ad%a6%e4%b9%a0%e5%bf%83%e6%b3%95&#34; &gt;学习心法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%89%be%e5%88%b0%e4%b8%ad%e5%bf%83%e7%82%b9&#34; &gt;找到中心点&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%89%be%e5%88%b0%e4%b9%90%e8%b6%a3&#34; &gt;找到乐趣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bb%8e%e4%b8%8d%e5%90%8c%e7%bb%b4%e5%ba%a6%e5%ad%a6%e4%b9%a0&#34; &gt;从不同维度学习&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%ad%a6%e4%bc%9a%e8%a7%82%e5%af%9f&#34; &gt;学会观察&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%b8%8d%e5%a5%a2%e6%b1%82%e4%b8%80%e6%ac%a1%e6%80%a7%e6%88%90%e5%8a%9f&#34; &gt;不奢求一次性成功&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e9%81%bf%e5%85%8d%e5%a4%8d%e6%9d%82&#34; &gt;避免复杂&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%b8%8d%e6%96%ad%e5%b0%9d%e8%af%95%e6%89%8d%e8%83%bd%e7%b2%be%e9%80%9a&#34; &gt;不断尝试才能精通&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%8b%92%e7%bb%9d%e5%8d%95%e4%b8%80%e6%8b%93%e5%b1%95%e8%a7%86%e8%a7%92&#34; &gt;拒绝单一，拓展视角&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%a4%9a%e9%a1%b9%e5%be%ae%e7%b2%be%e9%80%9a%e7%9a%84%e5%8d%8f%e5%90%8c%e6%95%88%e5%ba%94&#34; &gt;多项微精通的协同效应&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%88%9b%e6%96%b0%e5%8a%9b&#34; &gt;创新力&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%ae%9e%e9%99%85%e6%a1%88%e4%be%8b&#34; &gt;实际案例&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%86%99%e4%b8%80%e6%89%8b%e6%bc%82%e4%ba%ae%e5%ad%97&#34; &gt;写一手漂亮字&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;什么是微精通&#34;&gt;什么是微精通
+&lt;/h1&gt;&lt;p&gt;这是我在Robert Twigger写的《微精通》这本书中获得的概念，&lt;/p&gt;
+&lt;p&gt;简单来讲微精通的的核心思想就是：&lt;strong&gt;你可以学习任何你想学的事物，不一定要精通或者从基础开始，先从那些你感兴趣的方面开始学起。&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;比如学习做菜，如果你只是想学会做煎蛋卷，你完全可以直接去学煎蛋卷，
+而不需要买一本烹饪指南从最基础的内容一点点学起。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;（这样会让你要浪费很多时间跟煎蛋卷不相关的内容。）&lt;/p&gt;
 &lt;p&gt;这种学习方式，可以让你&lt;strong&gt;对这世界保持兴趣，并消除焦虑，也不会让你觉得自己浪费了很多时间。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;微精通的学习结构&#34;&gt;微精通的学习结构
-&lt;/h2&gt;&lt;p&gt;但是有时候我们感兴趣的内容可能超出了我们所掌握的能力，这时候就需要了解微精通的学习结构：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;入门技巧&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;入门技巧可以让你快速对所学事物有基本的把握&lt;/strong&gt; ，在最后的阶段你可能不需要，但是刚开始学习时入门技巧是你的最好工具。&lt;/p&gt;
+&lt;h1 id=&#34;微精通的学习结构&#34;&gt;微精通的学习结构
+&lt;/h1&gt;&lt;p&gt;但是有时候我们感兴趣的内容可能超出了我们所掌握的能力，这时候就需要了解微精通的学习结构：&lt;/p&gt;
+&lt;h2 id=&#34;入门技巧&#34;&gt;入门技巧
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;入门技巧可以让你快速对所学事物有基本的把握&lt;/strong&gt; ，在最后的阶段你可能不需要，但是刚开始学习时入门技巧是你的最好工具。&lt;/p&gt;
 &lt;p&gt;入门技巧本身有很多种形式，它可以是 &lt;strong&gt;改进方法&lt;/strong&gt; ，比如煎蛋卷前把蛋清和蛋黄先分离会更好，抓笔的位置往前会更好书写。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;随着学习的推进，你会发现自己不再需要这些技巧&lt;/strong&gt; ，这说明它们完成了协助你走向微精通的使命。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;协同障碍&lt;/p&gt;
-&lt;p&gt;两个或者多个技能同时运用时，乍一看，好像并不困难，但实际操作时会发现这些技能互相之间会排斥，这个就是 &lt;strong&gt;协同障碍&lt;/strong&gt; 。&lt;/p&gt;
+&lt;h2 id=&#34;协同障碍&#34;&gt;协同障碍
+&lt;/h2&gt;&lt;p&gt;两个或者多个技能同时运用时，乍一看，好像并不困难，但实际操作时会发现这些技能互相之间会排斥，这个就是 &lt;strong&gt;协同障碍&lt;/strong&gt; 。&lt;/p&gt;
 &lt;p&gt;如果你学习的事物需要同时运用两项技能，但这两项技能同时进行学习时可能会 &lt;strong&gt;相互对抗&lt;/strong&gt; ，这时，你可能会&lt;strong&gt;多关注其中一项技能，把这一项技能做到最好充分运用，而另外一项技能可能就是顺带学习。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;刚开始学习时，需要判断哪些技能组合在初期是&lt;strong&gt;容易出现协同障碍的，哪些组合是互相有益的。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;容易出现对抗的技能组合&lt;strong&gt;需要暂时进行分离学习，这有助于将新课题分解成可管理的多个部分。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;书中的一个方法值得记载：&lt;strong&gt;运用合气道学习中的「はじめ训练法」，一开始尽可能快速训练各种技能，不管做的多差，只要达到自己的最快速度就好，迫使自己进入”心流“状态而无暇思考。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;接着反过来，&lt;strong&gt;尽可能慢的做同样的练习&lt;/strong&gt; ，这种差异训练能树立学习意识，使基础的对抗技能深深根植于大脑。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;背景支持&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;学习新技能前，优良合适的装备会给你提供更好的学习体验&lt;/strong&gt; ，合适的装备可以最大限度的防止协同障碍存在，反之，不合适的装备会加大你的学习难度，甚至无法继续进行。&lt;/p&gt;
+&lt;h2 id=&#34;背景支持&#34;&gt;背景支持
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;学习新技能前，优良合适的装备会给你提供更好的学习体验&lt;/strong&gt; ，合适的装备可以最大限度的防止协同障碍存在，反之，不合适的装备会加大你的学习难度，甚至无法继续进行。&lt;/p&gt;
 &lt;p&gt;比如一台可以快速对焦的小型相机，可以缓解你初期摄影的抖动问题。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;合适的装备也会激励你去进一步的学习，坚持练习。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;背景支持不仅限于装备，还可以是周围的环境和人，比如合适的老师，合适的学习氛围。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;成功回报&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;成功回报能给你带来学习动力，并愿意重复实践这项技能。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;成功回报&#34;&gt;成功回报
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;成功回报能给你带来学习动力，并愿意重复实践这项技能。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;回报应该是具体、明确的事实，而不是含糊的成功，比如学会煎蛋卷&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;可复验性&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;微精通必须能被不断重复，因此它不能太无趣、不灵活或一成不变。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;可复验性&#34;&gt;可复验性
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;微精通必须能被不断重复，因此它不能太无趣、不灵活或一成不变。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;最重要的是&lt;strong&gt;你可以在一遍遍实践中有机会把这项技能做得比之前更好&lt;/strong&gt; ，持续进步，这样你会让自己更自信。&lt;/p&gt;
 &lt;p&gt;可游戏性是一个很好的方式，它能让你乐于去重复做同一项技能，这个特性说明&lt;strong&gt;微精通必须是容易重复的技能&lt;/strong&gt; ，比如写小说，一个长篇小说是困难的，而100字的微小说就很容易，这个就是微精通。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;可实验性&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;微精通是一个微型实验室，可做无数实验的地方，它能拓展知识面，带你深入课题研究。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;可实验性&#34;&gt;可实验性
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;微精通是一个微型实验室，可做无数实验的地方，它能拓展知识面，带你深入课题研究。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;每项微精通的实现都是螺旋上升的，让你了解各种变化，乐在其中。
 &lt;strong&gt;不要过于在意学习结果，不要墨守成规，找到自己合适的方式去做，&lt;/strong&gt; 这才是真正的学习。&lt;/p&gt;
+&lt;h1 id=&#34;学习心法&#34;&gt;学习心法
+&lt;/h1&gt;&lt;h2 id=&#34;找到中心点&#34;&gt;找到中心点
+&lt;/h2&gt;&lt;p&gt;在学习的过程中，找到这件事物的&lt;strong&gt;中心点&lt;/strong&gt; ，可以帮助你快速提高学习速度。&lt;/p&gt;
+&lt;p&gt;比如煎蛋卷，中心点就是加热锅，这关乎到炉子的火力，锅的型号以及油的总类，找到中心点后，这时&lt;strong&gt;你就会发现学习时应该把精力放在哪些跟中心点有关的内容内容上。（该努力的重点在哪）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;每一项活动你都能找到一些努力重点&lt;/strong&gt; ，先去往这方面努力，这样可以更快的获得&lt;a class=&#34;link&#34; href=&#34;#%e6%88%90%e5%8a%9f%e5%9b%9e%e6%8a%a5&#34; &gt;成功回报&lt;/a&gt; ，有回报会提高你的&lt;strong&gt;自信心&lt;/strong&gt; ，也更容易坚持下去。&lt;/p&gt;
+&lt;p&gt;往往那些&lt;strong&gt;被定义并限制在一定范围的东西，更容易得到的可验证的、明确的&lt;a class=&#34;link&#34; href=&#34;#%e6%88%90%e5%8a%9f%e5%9b%9e%e6%8a%a5&#34; &gt;成功回报&lt;/a&gt;&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;找到乐趣&#34;&gt;找到乐趣
+&lt;/h2&gt;&lt;p&gt;从你感兴趣的地方开始，一开始最重要的就是找到做这件事对你的乐趣。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;有了这个入门，你就会慢慢深入，并渐渐的扩展你的学习范围。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这时也许你需要合适的装备，帮你提高兴趣。&lt;a class=&#34;link&#34; href=&#34;#%e8%83%8c%e6%99%af%e6%94%af%e6%8c%81&#34; &gt;背景支持&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这些兴趣开始的地方，就是一个个小点，小点之间互相联系，慢慢就会织成一张大网。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;从不同维度学习&#34;&gt;从不同维度学习
+&lt;/h2&gt;&lt;p&gt;大脑绝大部分由多知神经细胞组成，也就是一种细胞可以处理多种感觉，如：嗅觉、视觉等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;所以我们学习时，可以运用多种感官，或者从多个维度上进行学习。&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;比如：学习国际法；
+
+单单从书面视觉上会有些枯燥，就可以找更多的感知方法和学习维度；
+
+例如会见当事人、挖掘真实情况等，这些通过互联网可以很容易实现，
+
+直接去避难中心了解事件进展，而不是读卷宗。跟深海捕鱼人聊聊哪里可以捕到鱼。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;或&lt;strong&gt;把学习到的内容教给他人&lt;/strong&gt;也是一种新的感官体验!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一切与所学相关的感官体验都可以增强我们的记忆和认知。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你也可以多去请教这个行业的行家，通常他们比你更能发现&lt;strong&gt;兴趣点&lt;/strong&gt;，或更&lt;strong&gt;能从不同角度看待事物，给予你启发。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;学会观察&#34;&gt;学会观察
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;通过仔细观察别人，会学习的更快。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;与将事物分解并关注它组成事物的方式相比，依靠观察学习到的东西也一样多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;通过关注事物之间，事物与环境之间，丰富的背景之间的关联，我们能对其中重大价值获取深刻见解。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而&lt;strong&gt;微精通要求我们把注意点限制在一个有限、独立的空间内，这样有助于深度观察，&lt;/strong&gt; 比起试图把形形色色的东西一股脑塞进心不甘情不愿的大脑，这样学习要快的多&lt;/p&gt;
+&lt;h2 id=&#34;不奢求一次性成功&#34;&gt;不奢求一次性成功
+&lt;/h2&gt;&lt;p&gt;微精通必须要要具有 &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%8f%af%e5%a4%8d%e9%aa%8c%e6%80%a7&#34; &gt;可复验性&lt;/a&gt;&lt;/strong&gt; ，拥有可复验性，我们就能不断的精进自己的技能，观察到自己的变化，就能提高自信。&lt;/p&gt;
+&lt;p&gt;所以微精通可以使你把每次尝试作为一次实验，&lt;strong&gt;这次做得不好并没有关系&lt;/strong&gt; ，不过是一次练习而已，下一次会做得更好，真正的关键是自己正走在微精通的道路上，而不是&lt;strong&gt;一次性成功&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;避免复杂&#34;&gt;避免复杂
+&lt;/h2&gt;&lt;p&gt;微精通让你从&lt;strong&gt;微小、简单的事情做起。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而人类给自己设置的&lt;strong&gt;复杂门槛&lt;/strong&gt; ，很多时候会遏制探索的兴趣。
+需要合适的装备、任职资格、博士学位、许可证等，这些荒谬、复杂的仪式有时会阻挡你学习某项能力。&lt;/p&gt;
+&lt;p&gt;要避免淹没在错综复杂的事务中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;将任务分解成多项微精通后，我们将回归简单而精妙的有益世界中。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;不断尝试才能精通&#34;&gt;不断尝试才能精通
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%ad%a6%e4%bc%9a%e8%a7%82%e5%af%9f&#34; &gt;精通关乎能否洞察深层关联和因果特性。&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;另一方面，精通必须不断的实践，建立平衡，衡量怎样才是好的或更好的。&lt;/p&gt;
+&lt;p&gt;你需要保持一定的热情，但不要痴迷。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在推进的过程中不断测试、查看、观察，时不时去冒险。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有些实验会遭遇惨败，有些则会取得惊人的成功。&lt;/p&gt;
+&lt;h2 id=&#34;拒绝单一拓展视角&#34;&gt;拒绝单一，拓展视角
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;过于专职单一学科是一条虚幻的道路。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;生活需要专业化的观点会导致意义减少，&lt;strong&gt;世界观越狭隘，外部世界就越没有意义。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;比起单一、狭窄的思维，博文广识的大脑能帮助我们搜索到更多资源来应对。&lt;/p&gt;
+&lt;p&gt;某种程度，&lt;strong&gt;精通可以在不同领域间转移。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;多项微精通的协同效应&#34;&gt;多项微精通的协同效应
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;当你掌握这个领域的微精通项目越多，就离成为专家越来越近。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;每天做同样的事情很无聊，但&lt;strong&gt;设定一段时间，完成一个微精通的目标，就是很有效的学习。完成后，你再接着转向新的东西，或许是一项新的微精通。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;同时，&lt;strong&gt;不同领域之间的微精通可以互相产生协同效应，使不同的技能得到提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;作者在书中举了很多科学家从艺术中获取灵感帮助，
+或艺术家从非科学中获取的例子，证明不同技能之间的确会互相协调。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;你懂的越多，越能对事物提出不同的观点，不同领域的知识以惊人的的方式互相取长补短。&lt;/strong&gt;
+&lt;strong&gt;不同的领域毫无关联的点子互相碰撞、交融而产生新的想法。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;创新力&#34;&gt;创新力
+&lt;/h1&gt;&lt;p&gt;拥有的潜在想法越多，越有创新优势。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不同旧想法之间碰撞、交汇，就可以产生新想法。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;微精通给你提供了大量的材料做这件事情。&lt;/p&gt;
+&lt;h1 id=&#34;实际案例&#34;&gt;实际案例
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;根据微精通的6个学习结构来列举1个写字的案例作参考：&lt;/strong&gt;&lt;/p&gt;
+&lt;h5 id=&#34;写一手漂亮字&#34;&gt;写一手漂亮字：
+&lt;/h5&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%85%a5%e9%97%a8%e6%8a%80%e5%b7%a7&#34; &gt;入门技巧&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;第一个入门技巧：&lt;strong&gt;握笔高一些，&lt;/strong&gt; 握在钢笔较高的地方，意味着你不再只是用手腕和手指，而开始&lt;strong&gt;让整个手臂动起来，充分利用手臂能提高手写水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;第二个入门技巧：&lt;strong&gt;拉长字母的“长胳膊”“长腿”，&lt;/strong&gt; 比如“y”和”p“要有长长的腿，”t&amp;quot; &amp;ldquo;i&amp;rdquo; &amp;ldquo;h&amp;quot;要高提到天际，你会立刻发现，不只书写好了很多，页面上的文字也不再向上或向下倾斜了。原因是每写一个长字母，你都会给大脑发送很明确的信号：落笔要与页面相关联，这就像是&lt;strong&gt;每次都在做重新校准。挨在一起的字母都能写得一样高后，就有了初始参考。&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%8d%8f%e5%90%8c%e9%9a%9c%e7%a2%8d&#34; &gt;协同障碍&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;协同障碍就是速度和美感之间的对抗。&lt;/strong&gt; 如果写得非常慢，其结果就是字母的外形有点丑，所以要提高速度但保持精确度，改善的最好方法就是大量练习，真正乐在其中的信件书写，以及充满期待的主动写作。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%83%8c%e6%99%af%e6%94%af%e6%8c%81&#34; &gt;背景支持&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;说到工具，&lt;strong&gt;廉价的纸张和圆珠笔会把人引上糟糕的书写之路，&lt;/strong&gt; 买一支好的钢笔，再买一本精美的笔记本，或许可以是手工制作的。有了合适的工具，你会更加努力。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%88%90%e5%8a%9f%e5%9b%9e%e6%8a%a5&#34; &gt;成功回报&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;坚持写展示给别人看的日记。&lt;/strong&gt; 写短小的作品，但要美丽，如果你喜欢，可以加入简图或地图，配上插图的文字总是更好。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%8f%af%e5%a4%8d%e9%aa%8c%e6%80%a7&#34; &gt;可复验性&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;可以买一些稀奇古怪、古老有趣的明信片。坚持用它们来和他人保持联系。要把每一次发送明信片当作制作漂亮手写体的机会。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%8f%af%e5%ae%9e%e9%aa%8c%e6%80%a7&#34; &gt;可实验性&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;掌握书写字母的“长胳膊”“长腿”最，并能把“a”和”g”写得像铜版印刷字体或其他字体样式后。
+&lt;strong&gt;可以看一些几个世纪以前的书写风格并临摹。&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         </item>
         <item>
         <title>自己日常使用的工具</title>
-        <link>http://localhost:1313/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</link>
+        <link>https://guitar550.github.io/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</link>
         <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</guid>
+        <guid>https://guitar550.github.io/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</guid>
         <description>&lt;h2 id=&#34;笔记软件&#34;&gt;笔记软件
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Wolai&lt;/li&gt;
@@ -212,26 +323,26 @@
         </item>
         <item>
         <title>读书笔记</title>
-        <link>http://localhost:1313/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+        <link>https://guitar550.github.io/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+        <guid>https://guitar550.github.io/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
         <description></description>
         </item>
         <item>
         <title>分类</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://guitar550.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://guitar550.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>联系</title>
-        <link>http://localhost:1313/%E8%81%94%E7%B3%BB/</link>
+        <link>https://guitar550.github.io/%E8%81%94%E7%B3%BB/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E8%81%94%E7%B3%BB/</guid>
+        <guid>https://guitar550.github.io/%E8%81%94%E7%B3%BB/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;微信二维码&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -253,27 +364,27 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://guitar550.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://guitar550.github.io/search/</guid>
         <description></description>
         </item>
         <item>
         <title>微精通</title>
-        <link>http://localhost:1313/%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
+        <link>https://guitar550.github.io/%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
+        <guid>https://guitar550.github.io/%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
         <description></description>
         </item>
         <item>
         <title>演奏作品</title>
-        <link>http://localhost:1313/categories/test/%E6%BC%94%E5%A5%8F%E4%BD%9C%E5%93%81/</link>
+        <link>https://guitar550.github.io/categories/test/%E6%BC%94%E5%A5%8F%E4%BD%9C%E5%93%81/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/test/%E6%BC%94%E5%A5%8F%E4%BD%9C%E5%93%81/</guid>
-        <description>&lt;img src="http://localhost:1313/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 演奏作品" /&gt;</description>
+        <guid>https://guitar550.github.io/categories/test/%E6%BC%94%E5%A5%8F%E4%BD%9C%E5%93%81/</guid>
+        <description>&lt;img src="https://guitar550.github.io/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 演奏作品" /&gt;</description>
         </item>
         
     </channel>
