@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>小威BLOG</title>
-        <link>https://guitar550.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on 小威BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo网站在Github上的架设流程</title>
-        <link>https://guitar550.github.io/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
+        <link>http://localhost:1313/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
         <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</guid>
-        <description>&lt;h2 id=&#34;建立流程图&#34;&gt;建立流程图
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/post/%e8%ae%a1%e7%ae%97%e6%9c%ba/Hugo%e7%bd%91%e7%ab%99%e7%9a%84%e6%9e%b6%e8%ae%be%e6%b5%81%e7%a8%8b/1.png&#34;
+        <guid>http://localhost:1313/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</guid>
+        <description>&lt;img src="http://localhost:1313/post/%E8%AE%A1%E7%AE%97%E6%9C%BA/Hugo%E7%BD%91%E7%AB%99%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/1.png" alt="Featured image of post Hugo网站在Github上的架设流程" /&gt;&lt;h2 id=&#34;建立流程图&#34;&gt;建立流程图
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/%e8%ae%a1%e7%ae%97%e6%9c%ba/Hugo%e7%bd%91%e7%ab%99%e7%9a%84%e6%9e%b6%e8%ae%be%e6%b5%81%e7%a8%8b/1.png&#34;
 	
 	
 	
@@ -61,11 +61,71 @@
 </description>
         </item>
         <item>
-        <title>自己日常使用的工具</title>
-        <link>https://guitar550.github.io/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</link>
+        <title>什么是微精通</title>
+        <link>http://localhost:1313/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
         <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</guid>
+        <guid>http://localhost:1313/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
+        <description>&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bb%80%e4%b9%88%e6%98%af%e7%b2%be%e9%80%9a&#34; &gt;什么是微精通&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%be%ae%e7%b2%be%e9%80%9a%e7%9a%84%e5%ad%a6%e4%b9%a0%e7%bb%93%e6%9e%84&#34; &gt;微精通的学习结构&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;什么是微精通&#34;&gt;什么是微精通
+&lt;/h2&gt;&lt;p&gt;这是我在Robert Twigger写的《微精通》这本书中获得的概念，&lt;/p&gt;
+&lt;p&gt;简单来讲微精通的的核心思想就是：&lt;strong&gt;你可以学习任何你想学的事物，不一定要精通或者从基础开始，先从那些你在这个领域中感兴趣的方面开始学起。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;比如学习做菜，如果你只是想学会做煎蛋卷，你完全可以直接去学煎蛋卷，而不需要买一本烹饪指南从最基础的内容一点点学起。（这样会让你要浪费很多时间跟煎蛋卷不相关的内容。）&lt;/p&gt;
+&lt;p&gt;这种学习方式，可以让你&lt;strong&gt;对这世界保持兴趣，并消除焦虑，也不会让你觉得自己浪费了很多时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;微精通的学习结构&#34;&gt;微精通的学习结构
+&lt;/h2&gt;&lt;p&gt;但是有时候我们感兴趣的内容可能超出了我们所掌握的能力，这时候就需要了解微精通的学习结构：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;入门技巧&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;入门技巧可以让你快速对所学事物有基本的把握&lt;/strong&gt; ，在最后的阶段你可能不需要，但是刚开始学习时入门技巧是你的最好工具。&lt;/p&gt;
+&lt;p&gt;入门技巧本身有很多种形式，它可以是 &lt;strong&gt;改进方法&lt;/strong&gt; ，比如煎蛋卷前把蛋清和蛋黄先分离会更好，抓笔的位置往前会更好书写。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;随着学习的推进，你会发现自己不再需要这些技巧&lt;/strong&gt; ，这说明它们完成了协助你走向微精通的使命。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;协同障碍&lt;/p&gt;
+&lt;p&gt;两个或者多个技能同时运用时，乍一看，好像并不困难，但实际操作时会发现这些技能互相之间会排斥，这个就是 &lt;strong&gt;协同障碍&lt;/strong&gt; 。&lt;/p&gt;
+&lt;p&gt;如果你学习的事物需要同时运用两项技能，但这两项技能同时进行学习时可能会 &lt;strong&gt;相互对抗&lt;/strong&gt; ，这时，你可能会&lt;strong&gt;多关注其中一项技能，把这一项技能做到最好充分运用，而另外一项技能可能就是顺带学习。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;刚开始学习时，需要判断哪些技能组合在初期是&lt;strong&gt;容易出现协同障碍的，哪些组合是互相有益的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;容易出现对抗的技能组合&lt;strong&gt;需要暂时进行分离学习，这有助于将新课题分解成可管理的多个部分。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;书中的一个方法值得记载：&lt;strong&gt;运用合气道学习中的「はじめ训练法」，一开始尽可能快速训练各种技能，不管做的多差，只要达到自己的最快速度就好，迫使自己进入”心流“状态而无暇思考。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;接着反过来，&lt;strong&gt;尽可能慢的做同样的练习&lt;/strong&gt; ，这种差异训练能树立学习意识，使基础的对抗技能深深根植于大脑。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;背景支持&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;学习新技能前，优良合适的装备会给你提供更好的学习体验&lt;/strong&gt; ，合适的装备可以最大限度的防止协同障碍存在，反之，不合适的装备会加大你的学习难度，甚至无法继续进行。&lt;/p&gt;
+&lt;p&gt;比如一台可以快速对焦的小型相机，可以缓解你初期摄影的抖动问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;合适的装备也会激励你去进一步的学习，坚持练习。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;背景支持不仅限于装备，还可以是周围的环境和人，比如合适的老师，合适的学习氛围。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;成功回报&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;成功回报能给你带来学习动力，并愿意重复实践这项技能。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;回报应该是具体、明确的事实，而不是含糊的成功，比如学会煎蛋卷&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可复验性&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微精通必须能被不断重复，因此它不能太无趣、不灵活或一成不变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最重要的是&lt;strong&gt;你可以在一遍遍实践中有机会把这项技能做得比之前更好&lt;/strong&gt; ，持续进步，这样你会让自己更自信。&lt;/p&gt;
+&lt;p&gt;可游戏性是一个很好的方式，它能让你乐于去重复做同一项技能，这个特性说明&lt;strong&gt;微精通必须是容易重复的技能&lt;/strong&gt; ，比如写小说，一个长篇小说是困难的，而100字的微小说就很容易，这个就是微精通。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可实验性&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微精通是一个微型实验室，可做无数实验的地方，它能拓展知识面，带你深入课题研究。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;每项微精通的实现都是螺旋上升的，让你了解各种变化，乐在其中。
+&lt;strong&gt;不要过于在意学习结果，不要墨守成规，找到自己合适的方式去做，&lt;/strong&gt; 这才是真正的学习。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>自己日常使用的工具</title>
+        <link>http://localhost:1313/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/%E8%87%AA%E5%B7%B1%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7/</guid>
         <description>&lt;h2 id=&#34;笔记软件&#34;&gt;笔记软件
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Wolai&lt;/li&gt;
@@ -151,27 +211,27 @@
 </description>
         </item>
         <item>
-        <title>xxx</title>
-        <link>https://guitar550.github.io/xxx/</link>
+        <title>读书笔记</title>
+        <link>http://localhost:1313/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/xxx/</guid>
+        <guid>http://localhost:1313/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
         <description></description>
         </item>
         <item>
         <title>分类</title>
-        <link>https://guitar550.github.io/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>联系</title>
-        <link>https://guitar550.github.io/%E8%81%94%E7%B3%BB/</link>
+        <link>http://localhost:1313/%E8%81%94%E7%B3%BB/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/%E8%81%94%E7%B3%BB/</guid>
+        <guid>http://localhost:1313/%E8%81%94%E7%B3%BB/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;微信二维码&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -193,27 +253,27 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>https://guitar550.github.io/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         <item>
         <title>微精通</title>
-        <link>https://guitar550.github.io/%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
+        <link>http://localhost:1313/%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
+        <guid>http://localhost:1313/%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
         <description></description>
         </item>
         <item>
         <title>演奏作品</title>
-        <link>https://guitar550.github.io/categories/test/%E6%BC%94%E5%A5%8F%E4%BD%9C%E5%93%81/</link>
+        <link>http://localhost:1313/categories/test/%E6%BC%94%E5%A5%8F%E4%BD%9C%E5%93%81/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/categories/test/%E6%BC%94%E5%A5%8F%E4%BD%9C%E5%93%81/</guid>
-        <description>&lt;img src="https://guitar550.github.io/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 演奏作品" /&gt;</description>
+        <guid>http://localhost:1313/categories/test/%E6%BC%94%E5%A5%8F%E4%BD%9C%E5%93%81/</guid>
+        <description>&lt;img src="http://localhost:1313/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 演奏作品" /&gt;</description>
         </item>
         
     </channel>

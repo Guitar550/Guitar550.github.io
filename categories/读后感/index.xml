@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>读后感 on 小威BLOG</title>
+        <link>http://localhost:1313/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+        <description>Recent content in 读后感 on 小威BLOG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>什么是微精通</title>
+        <link>http://localhost:1313/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
+        <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
+        <description>&lt;h2 id=&#34;什么是微精通&#34;&gt;什么是微精通
+&lt;/h2&gt;&lt;p&gt;这是我在Robert Twigger写的《微精通》这本书中获得的概念，&lt;/p&gt;
+&lt;p&gt;简单来讲微精通的的核心思想就是：&lt;strong&gt;你可以学习任何你想学的事物，不一定要精通或者从基础开始，先从那些你在这个领域中感兴趣的方面开始学起。&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
