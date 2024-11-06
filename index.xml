@@ -6,7 +6,946 @@
         <description>Recent content on 小威BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>如何高效学习——整体性学习</title>
+        <link>https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0/</link>
+        <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0/</guid>
+        <description>&lt;p&gt;这是来自Scott Young所写的《如何高效学习》里的一些思路，整本书围绕着【整体性学习】这个概念来展开。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;目录&#34;&gt;目录
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bb%80%e4%b9%88%e6%98%af%e6%95%b4%e4%bd%93%e6%80%a7%e5%ad%a6%e4%b9%a0&#34; &gt;什么是整体性学习&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%95%b4%e4%bd%93%e6%80%a7%e5%ad%a6%e4%b9%a0%e9%87%8c%e7%9a%84%e4%b8%80%e4%ba%9b%e6%a6%82%e5%bf%b5&#34; &gt;整体性学习里的一些概念&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%bb%93%e6%9e%84&#34; &gt;结构&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%a8%a1%e5%9e%8b&#34; &gt;模型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e9%ab%98%e9%80%9f%e5%85%ac%e8%b7%af&#34; &gt;高速公路&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%95%b4%e4%bd%93%e6%80%a7%e5%ad%a6%e4%b9%a0%e7%9a%846%e4%b8%aa%e9%98%b6%e6%ae%b5&#34; &gt;整体性学习的6个阶段&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%8e%b7%e5%8f%96%e9%98%b6%e6%ae%b5&#34; &gt;获取阶段&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%90%86%e8%a7%a3%e9%98%b6%e6%ae%b5&#34; &gt;理解阶段&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%8b%93%e5%b1%95%e9%98%b6%e6%ae%b5&#34; &gt;拓展阶段&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%b7%b1%e5%ba%a6%e6%8b%93%e5%b1%95&#34; &gt;深度拓展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%a8%aa%e5%90%91%e6%8b%93%e5%b1%95&#34; &gt;横向拓展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%ba%b5%e5%90%91%e6%8b%93%e5%b1%95&#34; &gt;纵向拓展&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%ba%a0%e9%94%99%e9%98%b6%e6%ae%b5&#34; &gt;纠错阶段&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%ba%94%e7%94%a8%e9%98%b6%e6%ae%b5&#34; &gt;应用阶段&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%b5%8b%e8%af%95%e9%98%b6%e6%ae%b5&#34; &gt;测试阶段&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%80%bb%e7%bb%93&#34; &gt;总结&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%8e%b7%e5%8f%96&#34; &gt;获取&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%90%86%e8%a7%a3&#34; &gt;理解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%8b%93%e5%b1%95&#34; &gt;拓展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%ba%a0%e9%94%99&#34; &gt;纠错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%ba%94%e7%94%a8&#34; &gt;应用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#5%e7%a7%8d%e4%bf%a1%e6%81%af%e7%bb%93%e6%9e%84--%e5%a4%84%e7%90%86%e6%96%b9%e6%b3%95&#34; &gt;5种信息结构 &amp;amp; 处理方法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e9%9a%8f%e6%84%8f%e4%bf%a1%e6%81%af&#34; &gt;随意信息&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%a7%82%e7%82%b9%e4%bf%a1%e6%81%af&#34; &gt;观点信息&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%bf%87%e7%a8%8b%e4%bf%a1%e6%81%af&#34; &gt;过程信息&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%85%b7%e4%bd%93%e4%bf%a1%e6%81%af&#34; &gt;具体信息&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%8a%bd%e8%b1%a1%e4%bf%a1%e6%81%af&#34; &gt;抽象信息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8%e4%ba%94%e7%a7%8d%e4%bf%a1%e6%81%af%e7%b1%bb%e5%9e%8b&#34; &gt;如何使用五种信息类型&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%bc%b1%e7%bb%93%e6%9e%84&#34; &gt;弱结构&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%bc%ba%e7%bb%93%e6%9e%84&#34; &gt;强结构&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%81%94%e7%b3%bb%e8%a7%82%e7%82%b9%e6%af%94%e5%96%bb%e6%b3%95%e5%86%85%e5%9c%a8%e6%b3%95%e5%9b%be%e8%a1%a8%e6%b3%95&#34; &gt;联系观点（比喻法、内在法、图表法）&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%9b%b0%e9%9a%be%e4%bf%a1%e6%81%af&#34; &gt;困难信息&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%85%b3%e9%94%ae%e4%bf%a1%e6%81%af&#34; &gt;关键信息&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%af%94%e5%96%bb%e6%b3%95%e8%81%94%e7%b3%bb%e8%a7%82%e7%82%b9&#34; &gt;比喻法（联系观点）&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%af%94%e5%96%bb%e7%9a%84%e5%ae%9a%e4%b9%89%e4%b8%8e%e5%ba%94%e7%94%a8&#34; &gt;比喻的定义与应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%98%8e%e5%96%bb&#34; &gt;明喻&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%af%94%e5%96%bb%e6%b3%95%e7%9a%84%e6%ad%a5%e9%aa%a4&#34; &gt;比喻法的步骤&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%af%94%e5%96%bb%e6%b3%95%e6%80%bb%e7%bb%93&#34; &gt;比喻法总结&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%99%ba%e5%8a%9b%e6%8c%91%e6%88%98&#34; &gt;智力挑战&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%86%85%e5%9c%a8%e5%8c%96&#34; &gt;内在化&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%86%85%e5%9c%a8%e5%8c%96%e7%9a%84%e5%ae%9a%e4%b9%89&#34; &gt;内在化的定义&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%a6%82%e4%bd%95%e8%bf%9b%e8%a1%8c%e5%86%85%e5%9c%a8%e5%8c%96&#34; &gt;如何进行内在化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%af%94%e5%96%bb%e5%86%85%e5%9c%a8%e5%8c%96&#34; &gt;比喻内在化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%86%85%e5%9c%a8%e5%8c%96%e6%80%bb%e7%bb%93&#34; &gt;内在化总结&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%99%ba%e5%8a%9b%e6%8c%91%e6%88%98&#34; &gt;智力挑战&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%9b%be%e8%a1%a8%e6%b3%95%e8%81%94%e7%b3%bb%e8%a7%82%e7%82%b9&#34; &gt;图表法（联系观点）&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%9b%be%e8%a1%a8%e7%9a%84%e7%b1%bb%e5%9e%8b&#34; &gt;图表的类型&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%b5%81%e7%a8%8b%e5%9b%be&#34; &gt;流程图&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%a6%82%e5%bf%b5%e5%9b%be&#34; &gt;概念图&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%9b%be%e5%83%8f&#34; &gt;图像&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%9b%be%e8%a1%a8%e4%b8%8e%e6%af%94%e5%96%bb--%e5%86%85%e5%9c%a8%e5%8c%96%e7%bb%93%e5%90%88&#34; &gt;图表与比喻 &amp;amp; 内在化结合&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%99%ba%e5%8a%9b%e6%8c%91%e6%88%98-1&#34; &gt;智力挑战&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e9%9a%8f%e6%84%8f%e4%bf%a1%e6%81%af%e7%9a%84%e5%a4%84%e7%90%86&#34; &gt;随意信息的处理&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%8c%82%e9%92%a9%e6%b3%95&#34; &gt;挂钩法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bd%bf%e7%94%a8%e6%8c%82%e9%92%a9%e6%b3%95%e8%ae%b0%e5%bf%86%e6%97%a5%e6%9c%9f&#34; &gt;使用挂钩法记忆日期&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e9%ab%98%e7%ba%a7%e6%8c%82%e9%92%a9%e6%b3%95&#34; &gt;高级挂钩法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bf%a1%e6%81%af%e5%8e%8b%e7%bc%a9%e6%8a%80%e6%9c%af&#34; &gt;信息压缩技术&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%ae%b0%e5%bf%86%e6%9c%af&#34; &gt;记忆术&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%9b%be%e5%83%8f%e8%81%94%e7%b3%bb&#34; &gt;图像联系&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%ac%94%e8%ae%b0%e5%8e%8b%e7%bc%a9%e6%b3%95&#34; &gt;笔记压缩法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%99%ba%e5%8a%9b%e6%8c%91%e6%88%98-2&#34; &gt;智力挑战&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%ae%9e%e9%99%85%e5%ba%94%e7%94%a8&#34; &gt;实际应用&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%b0%86%e7%9f%a5%e8%af%86%e5%ba%94%e7%94%a8%e5%88%b0%e5%ae%9e%e9%99%85%e7%94%9f%e6%b4%bb%e4%b8%ad&#34; &gt;将知识应用到实际生活中&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%b8%8d%e5%90%8c%e5%ad%a6%e7%a7%91%e7%9a%84%e5%ae%9e%e9%99%85%e5%ba%94%e7%94%a8&#34; &gt;不同学科的实际应用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%9f%a5%e8%af%86%e7%9a%84%e5%bb%b6%e4%bc%b8&#34; &gt;知识的延伸&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%ad%a6%e4%b9%a0%e7%9a%84%e7%9c%9f%e6%ad%a3%e7%9b%ae%e7%9a%84&#34; &gt;学习的真正目的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%ba%94%e7%94%a8%e9%98%b6%e6%ae%b5%e7%9a%84%e9%87%8d%e8%a6%81%e6%80%a7&#34; &gt;应用阶段的重要性&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%9f%a5%e8%af%86%e6%b7%b1%e5%85%a5%e7%9a%84%e5%a5%bd%e5%a4%84&#34; &gt;知识深入的好处&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%b4%b9%e6%9b%bc%e5%ad%a6%e4%b9%a0%e6%b3%95&#34; &gt;费曼学习法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%a8%a1%e6%8b%9f%e6%95%99%e5%ad%a6&#34; &gt;模拟教学&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%83%bd%e5%90%a6%e8%ae%b2%e6%98%8e%e7%99%bd&#34; &gt;能否讲明白？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%ae%b2%e8%af%be%e4%b8%ad%e7%9a%84%e5%8d%a1%e5%a3%b3&#34; &gt;讲课中的卡壳&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%ae%b2%e8%a7%a3%e7%9a%84%e6%b7%b7%e6%b7%86&#34; &gt;讲解的混淆&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%8f%8d%e9%a6%88--%e7%ae%80%e5%8c%96%e5%b9%b6%e9%87%8d%e5%a4%8d&#34; &gt;「反馈」 &amp;amp; 「简化并重复」&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%94%b6%e9%9b%86%e5%8f%8d%e9%a6%88&#34; &gt;收集反馈&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bd%bf%e7%94%a8%e7%b1%bb%e6%af%94%e7%ae%80%e5%8c%96%e5%86%85%e5%ae%b9&#34; &gt;使用类比简化内容&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;什么是整体性学习&#34;&gt;什么是整体性学习
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;整体性学习是一种学习理论，它需要采取多种途径综合学习，创造知识与知识之间的关联网络，而不是机械的拷贝。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;机械记忆认为学习就像整理一个个大小不一的盒子。一个数学大盒子里装有代数、几何、微积分小盒子，微积分小盒子又装有更小的函数盒子和一些公式的应用盒子。&lt;/p&gt;
+&lt;p&gt;在你的微积分盒子里不可能找到生物、历史、绘画、舞蹈和科幻电影的踪迹。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但学习不是整理盒子，学习就像编制一张大网。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们的大脑不能和计算机一样进行机械记忆，而必须通过多种途径获取知识，并让知识之间互相关联，&lt;strong&gt;重点在于整合知识，而不是做完美的拷贝。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;整体性学习里的一些概念&#34;&gt;整体性学习里的一些概念
+&lt;/h1&gt;&lt;h2 id=&#34;结构&#34;&gt;结构
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;结构就是一系列紧密联系的知识。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;知识的学习并不是孤立的，知识之间你创造的联系越多，就会记得越牢，理解的越好。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;良好的知识结构就是绘制一份优秀的地图，就是建造一座设计良好的城市。所以在建立知识结构时，你的目标就是&lt;strong&gt;在各种知识之间建立尽可能多的联系，每学一个新概念都会自动的和已有知识相联系。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;模型&#34;&gt;模型
+&lt;/h2&gt;&lt;p&gt;模型的主要目的是&lt;strong&gt;压缩和优化知识，优化知识的理解速度&lt;/strong&gt;，可以更直观的理解自己整理的知识，有助于结构的清晰和通畅。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;模型就是结构的种子，是一座建筑的地基和框架，是知识的核心的概念，在此基础上将引伸出全部的知识。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;比如说一本书的目录就是一个模型，帮助我们更好的理解书中的结构和内容。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;模型是简化的结构，它是结构的快照，更为简单和更储存。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;模型并不需要非常精确，它只需要综合一些观念，使这些观念变得更易理解、把握。&lt;/strong&gt; 后面一旦有了结构，我们就可以在此基础上理解和纠正错误。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;学习电脑编程，程序语言经常遇到“变量”的概念，变量是用于存储信息的，在程序运行中发生变化的名字、数字、密码都可以作为变量储存起来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;作者把变量想象成各种各样的罐子，每个罐子有不同的瓶口，用于装不同的数据。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如此一来概念就变得理解了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;模型不一定是一张图，但一定是一种压缩形式，它把多个关键思想压至一处。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;高速公路&#34;&gt;高速公路
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;高速公路是结构和结构之间的联系。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高速公路作为参照物可以连接两个完全不同的观念。&lt;/strong&gt; 假如你正在阅读生物学课本，又与学过的商业发展史课程相比较、相联系，这就建立了高速公路。（联系不同领域，但概念类同的知识）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高速公路能激发创造力，利用高速公路可以在专业交叉的领域建立起新的结构。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以不曾想过的方式将常人眼里风马牛不相及的专业联系在一起思考，这就是创造。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高速公路使学习更富有弹性，而不是僵硬死板的学习。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;整体性学习的6个阶段&#34;&gt;整体性学习的6个阶段
+&lt;/h1&gt;&lt;h2 id=&#34;获取阶段&#34;&gt;获取阶段
+&lt;/h2&gt;&lt;p&gt;这个阶段代表信息从采集到进入脑子的过程，&lt;strong&gt;此时处理各种形式的信息以及减少干扰的能力至关重要。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;获取信息时有三个主要目标：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;简化（在不破坏信息完整度的基础上，简化信息更好记忆吸收）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;容量（获取更多的信息）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;速度（在更短的时间获取更多信息）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;理解阶段&#34;&gt;理解阶段
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;在理解阶段，你只需要理解信息的表面意思。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;获取信息而不理解是没有任何价值的，这就是所谓的填鸭式学习。&lt;/p&gt;
+&lt;p&gt;假如你不理解一本书、一章节、一段话说的是什么意思，要想牢牢记住它或者在实际生活中应用它几乎是不可能的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;整体性学习过程对信息的理解有三个层次，层次越高，对信息的理解越深入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首先是理解阶段，其次是拓展阶段，最后是应用阶段。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;举个例子，比如你正在学习一个数学公式。&lt;/p&gt;
+&lt;p&gt;在理解阶段，你只需要理解公式中的每个符号代表什么，然后才有可能应用公式来解决问题。&lt;/p&gt;
+&lt;p&gt;如果你重复使用公式的次数够多，就有可能记住它。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;死记硬背式的学习仅仅是理解阶段的学习。&lt;/p&gt;
+&lt;p&gt;大多数人到了理解阶段就止步不前了，而聪明的人知道要超越它，方能高人一等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这个阶段只不过表示你初步理解了信息在上下文之间的意思，公式不再是胡乱弯曲的字母组合。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;拓展阶段&#34;&gt;拓展阶段
+&lt;/h2&gt;&lt;p&gt;拓展才是整体性学习的真正开始。&lt;/p&gt;
+&lt;p&gt;之前你对信息的字面意思已经有了一个基本的理解，现在&lt;strong&gt;你可以将这个信息与其他信息联系起来了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这个阶段要&lt;strong&gt;应用模型来简化和拓展你的结构，同时也要拓展对信息的理解，包括信息的由来（问为什么？）以及与其他信息是怎么联系在一起的。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;比如前面提到的公式。&lt;/p&gt;
+&lt;p&gt;一名整体性学习者会先去[[6 获取阶段|获取]]，然后[[7 理解阶段|理解]]公式本来的意思，接着开始拓展它。&lt;/p&gt;
+&lt;p&gt;他会问：
+公式是怎么来的？
+公式中的每个成分代表的真实含义是什么？
+公式中的什么成分可以做些改变？
+这种改变会导致结果发生什么样的变化？
+其他公式与这个公式有什么相同之处，又有什么不同之处？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;拓展主要有三种主要方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;深度拓展（当前知识的深挖）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;横向拓展（与当前知识类似的同类型知识深挖）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纵向拓展（不同类型但遵循同一模式的知识之间建立联系）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;深度拓展&#34;&gt;深度拓展
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;深度拓展需要在信息内部创造联系。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;知识从何而来？结论来自何处？一个发现是如何做出的？事物为什么以这种方式存在？&lt;/p&gt;
+&lt;p&gt;不是仅仅理解一个结论就结束了，要进一步理解结论之前的试验。&lt;/p&gt;
+&lt;p&gt;试验是怎么做的？是谁做的？怎么想起来做的？&lt;/p&gt;
+&lt;p&gt;如此这般之后，&lt;strong&gt;结论就建立在与其他相关知识联系的基础之上了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;深度拓展的缺点是需要很多探索。有些学科本身提供了一定程度的深度拓展，但是往往深度不够；&lt;/p&gt;
+&lt;p&gt;有的学科根本就没有提供，只是孤零零的结论。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;深度拓展可能是牢牢锁定知识的最佳方法，但是同时也是最花时间的工作。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;横向拓展&#34;&gt;横向拓展
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;横向拓展需要在知识周围建立联系，通常意味着你需要建立模型，在模型与原知识之间建立联系，知识不会孤立地存在。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;（比如将发生在古希腊的一件事与另一件发生在古代中国的事情联系起来。）&lt;/p&gt;
+&lt;p&gt;与此类似的结论还有哪些？是哪些地方类似？不同的地方在哪里？&lt;/p&gt;
+&lt;p&gt;同一时期还有哪些其他的发现，同一个发现者还有哪些发现，在同一领域里还有哪些发现？围绕这一结论有哪些其他的事实？&lt;/p&gt;
+&lt;h3 id=&#34;纵向拓展&#34;&gt;纵向拓展
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;纵向拓展要求在结构间建立高速通道，它有益于创造性思考，赋予你神奇的力量，帮助你理解知识。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;知识都遵循一定的模式，同样的模式在其他知识中也会见到。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你能将一个公式与一个自然事件相联系吗？比如水的流动或是驾驶汽车？如果这个发现与一个看起来完全不相关的历史事件联系在一起，你能发现什么类似之处吗？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;纵向拓展有相当的难度，也是最有创造性的学习方式。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;但是，如果运用得当，其速度要比深度拓展中探究知识的背景快得多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;纵向拓展是本书中最重要的内容（希望读者仔细体会），比喻法和内在化是进行纵向拓展的最好方法。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;纠错阶段&#34;&gt;纠错阶段
+&lt;/h2&gt;&lt;p&gt;学习不可能不犯错误。错误的联系可能导致错误的理解。&lt;strong&gt;你以为理解正确，实际上是从错误的联系推导而来。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;纠错可以看作在整体性知识网络中做修剪工作，添加一些特殊的例子，删除一些现实中不存在的联系&lt;/strong&gt;，这不是一个完美的过程，修剪工作是必要的。&lt;/p&gt;
+&lt;p&gt;纠错的最终途径就是实践，如果纠错之前的三步做得很好（获取、理解、拓展），那么纠错的时间会缩短。&lt;/p&gt;
+&lt;h2 id=&#34;应用阶段&#34;&gt;应用阶段
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;应用是学习的最终目的，能做到学以致用方能更好地适应现实世界。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;只有很少的知识能够到达此阶段，如果能将更多的知识引导至应用阶段，你深入理解的知识就越多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;理论运用到现实世界中的过程既是练习的过程也是创造性解决问题的过程。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;知识中的很大一部分存在于潜意识中，这部分知识如果不去运用就得不到很好的发展。&lt;/p&gt;
+&lt;p&gt;读了图书馆里所有的管理学书籍也只是理解了管理学的概念，如果能亲自管理企业，那么对概念就不仅仅是理解，而且是一种感觉。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;创造新的途径，将所学的知识应用到生活中去，这是整体性学习的最后环节，也是最终目的。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;测试阶段&#34;&gt;测试阶段
+&lt;/h2&gt;&lt;p&gt;前面的五个阶段都需要进行测试。&lt;/p&gt;
+&lt;p&gt;不管你何时尝试新的方法，知识都有可能发生丢失和误解的现象。&lt;strong&gt;测试可以让你了解弱点是什么，该如何改进它。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;获取阶段的测试 ── 我以前看过或听过这个知识吗？&lt;/p&gt;
+&lt;p&gt;理解阶段的测试 ── 我理解知识的含义吗？（至少是字面上的意思。）&lt;/p&gt;
+&lt;p&gt;拓展阶段的测试 ── 我知道知识从何而来，与哪些知识有关系吗？&lt;/p&gt;
+&lt;p&gt;纠错阶段的测试 ── 我删除了那些不恰当的联系吗？我删除了那些
+错误结论吗？&lt;/p&gt;
+&lt;p&gt;应用阶段的测试 ── 我将知识用到实际生活中了吗？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于上述问题的回答会让你清楚自己对于某个知识的理解到了什么水平。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结
+&lt;/h2&gt;&lt;h3 id=&#34;获取&#34;&gt;获取
+&lt;/h3&gt;&lt;p&gt;获取的问题主要表现为下面两种。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;阅读和听讲速度慢。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;需要反复阅读。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;原因有以下几点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;阅读/学习习惯不好。容易分心，不能持久阅读，没有掌握第二部分中介绍的那些阅读方法，导致阅读花费的时间长或者一个材料要反复阅读几遍。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不好的记笔记习惯。笔记记得太多或太少，记得太多会没有时间思考，笔记记得太少或者记得不对更不行，如果信息丢失或者信息错误还谈什么获取？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不理解基本名词和语法。如果读的是外文书，相信除非你外文功底深厚，否则一定会错误百出。假如对所学专业的基本概念都不清楚，那么读书也是一头雾水，毫无所获。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;解决获取缺陷的方法是养成良好的学习、阅读和记笔记的习惯。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;获取并不是学习中最重要的阶段，所以如果你在获取方面表现得不够完美也不用太多担心。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;理解&#34;&gt;理解
+&lt;/h3&gt;&lt;p&gt;理解不好的表现如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;你虽然在读书，但是不知道作者到底说的是什么。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;笔记记得很清晰、完美，但是你却不明白是什么意思。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;要明白字面上的意思并不需要什么魔法，我的建议是如果理解有困难，不如寻找写得更好、解释得更清楚的材料阅读。&lt;/p&gt;
+&lt;p&gt;而高级技术如比喻法或内在化只有在有了基本的理解（也就是字面上的意思搞清楚了）后才能发挥作用。&lt;/p&gt;
+&lt;p&gt;即使你觉得无法理解一段话，也不必太忧虑。这很少成为主要问题。&lt;/p&gt;
+&lt;p&gt;通常，大多数人能理解某个观点的基础知识，只有在应用以及需要与记忆中的想法联系在一起的时候，大家才会觉得困难。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;拓展&#34;&gt;拓展
+&lt;/h3&gt;&lt;p&gt;拓展不好的表现只有一种：&lt;strong&gt;缺少灵活性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;你已经掌握了一个新东西，但是没有或不会将它与其他学过的知识联系起来。假如让你用这个新知识去解决一个非常规问题，就常常束手无策。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他们会按照老师教的公式和方法解决问题，但是如果问题的背景稍微改变一些，就不会了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不会将学到的知识举一反三、触类旁通，这就是拓展能力差的表现，而不是应用阶段的问题。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;纠错&#34;&gt;纠错
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;纠错阶段的不足主要表现为错误联系太多。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这个问题在课堂上很少出现，在现实生活中却很普遍。&lt;/p&gt;
+&lt;p&gt;课堂上，人们很少做拓展工作，因为联系得少，所以错误的联系也就少，结果也就很少有需要纠错的地方了。&lt;/p&gt;
+&lt;p&gt;纠错做得不够的一个表现是&lt;strong&gt;常常不能发现自己在某个主要的看法或问题上是错误的，如果你总认为自己是正确的，可能是你没有对建立的联系做足够严谨的检查。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;应用&#34;&gt;应用
+&lt;/h3&gt;&lt;p&gt;应用上的缺陷是&lt;strong&gt;不能在真实世界中很好地运用知识，有华丽的理论却不会应用于实际是无用的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;解决这个问题的唯一办法就是&lt;strong&gt;更多地实践，抛开书本，走出去，去做实验，去接触生活，去融入社会。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;5种信息结构--处理方法&#34;&gt;5种信息结构 &amp;amp; 处理方法
+&lt;/h1&gt;&lt;h2 id=&#34;随意信息&#34;&gt;随意信息
+&lt;/h2&gt;&lt;p&gt;随意信息是&lt;strong&gt;一系列事实、日期、定义或规则，它们缺少逻辑分类。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这些知识看起来没有规律，无法再加工。需要死记硬背的知识就是随意信息。&lt;/p&gt;
+&lt;h3 id=&#34;随意信息的难点&#34;&gt;随意信息的难点
+&lt;/h3&gt;&lt;p&gt;随意信息&lt;strong&gt;理解起来不费劲，但正因为理解工作少，可探究的程度也少。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此，随意信息如果不通过反复机械记忆，非常容易遗忘。&lt;/p&gt;
+&lt;p&gt;随意信息是最不容易进行整体学习的。&lt;/p&gt;
+&lt;h3 id=&#34;处理随意信息的方法&#34;&gt;处理随意信息的方法
+&lt;/h3&gt;&lt;p&gt;假如这种信息&lt;strong&gt;存在某种逻辑关系，那么尽量去发现它，否则记忆和使用信息的工作会更加困难。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果这样做还是不满意，可以采取下面三种方法：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;联想法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;挂钩法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;压缩法&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;观点信息&#34;&gt;观点信息
+&lt;/h2&gt;&lt;p&gt;观点信息是&lt;strong&gt;存在争论的信息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如：小乘佛教和大乘佛教哪一个更优秀？&lt;/p&gt;
+&lt;h3 id=&#34;观点信息的难点&#34;&gt;观点信息的难点
+&lt;/h3&gt;&lt;p&gt;对于观点信息，最大的难点在于获取阶段。你需要&lt;strong&gt;检查大量的信息以寻找其中的模式，而不是去记忆具体的细节。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;速读技巧对于收集信息非常重要。图表法对于观点来说也是非常有用的方法，它能帮助你在阅读以后提取出关键思想。&lt;/p&gt;
+&lt;h2 id=&#34;过程信息&#34;&gt;过程信息
+&lt;/h2&gt;&lt;p&gt;过程信息是&lt;strong&gt;教导你怎么行动的信息，是讲述一系列动作、操作的信息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;比如：讲述如何游泳的知识，编写一段电脑程序，建造一所房子以及设计一个模型都依赖于过程信息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;学习这类信息最重要的是不断练习、反复去做。不过，建立正确的背景概念对于节约时间也同样关键。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;过程信息的难点&#34;&gt;过程信息的难点
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;过程信息的最大难点是需要实际投入大量的时间用于练习。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你可以对概念理解得不好，但是必须实际地掌握动作。你无须全部学习材料，只要拥有正确的背景模型，就可以练习那些教你的动作。&lt;/p&gt;
+&lt;p&gt;过程信息的好处是：如果练习了，它比其他类型的信息记得更牢，保存时间更长。&lt;strong&gt;通过练习，你可以将模型与知识结构更好地融合在一起。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;处理过程信息的方法&#34;&gt;处理过程信息的方法
+&lt;/h3&gt;&lt;p&gt;大多数过程信息都依赖于正确的模型，通过练习可以慢慢形成一个结构，如果有正确的模型则可以提高学习速度，以下是一些可以改进模型的技术：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;内在化&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比喻法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;图表法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;模型纠错&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;具体信息&#34;&gt;具体信息
+&lt;/h2&gt;&lt;p&gt;具体信息是&lt;strong&gt;那些在实际中可以观察到、听到、触到的信息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;比如医学上的视、触、叩、听得到的信息就是具体信息。不过实际上，大
+多数信息都介于抽象和具体之间。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;例如：生物生物学可能是比较具体的科目，有大量真实的图像，你不需要做更多的视觉化工作，因为艺术家和自然本身已经做好了这种工作。&lt;/p&gt;
+&lt;p&gt;不过生物学也有酶、神经元、蛋白质结构、化学反应等难以想象图像的知识，所以生物学也是一门抽象学科。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;应用具体信息的方法&#34;&gt;应用具体信息的方法
+&lt;/h3&gt;&lt;p&gt;后面列出的大多数技巧都可以用于具体信息。&lt;/p&gt;
+&lt;p&gt;内在化有助于将信息与多个感官相联系，举例来说，你不但能看到心脏泵血的图像，还可以给这幅图画加上感情和声音。&lt;/p&gt;
+&lt;h2 id=&#34;抽象信息&#34;&gt;抽象信息
+&lt;/h2&gt;&lt;p&gt;抽象信息&lt;strong&gt;缺少与感官的直接联系。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;数学、物理、心理学、计算机和化学主要涉及的是抽象信息。&lt;/p&gt;
+&lt;p&gt;抽象信息与随意信息正好相反。&lt;strong&gt;抽象信息非常难以理解，但是逻辑性很强，学习时好比潜入深海的探索，随意信息则非常浅显，但是逻辑性差。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;抽象信息的难点&#34;&gt;抽象信息的难点
+&lt;/h3&gt;&lt;p&gt;对抽象信息来说，理解和拓展阶段显得难以忍受。&lt;/p&gt;
+&lt;p&gt;假如你感到理解困难，&lt;strong&gt;可以降低接受信息的速度，将前面的信息深入仔细地探究。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这种知识的特点是一环接着一环，所以打好基础至关重要。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;处理抽象信息的方法&#34;&gt;处理抽象信息的方法
+&lt;/h3&gt;&lt;p&gt;在学习抽象信息时，整体性学习优势明显。通过将信息转化为更容易想象成图像的形式，你可以为知识建立广泛的联系。&lt;/p&gt;
+&lt;p&gt;两种主要的办法是&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;内化法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比喻法&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;如何使用五种信息类型&#34;&gt;如何使用五种信息类型
+&lt;/h2&gt;&lt;p&gt;学习一个新问题时，首先要判断信息主要属于哪一类？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;确定信息的类型可以帮助我们决定学习时采用什么技术，以及估计记忆时可能会遇到的困难。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;弱结构&#34;&gt;弱结构
+&lt;/h3&gt;&lt;p&gt;随意信息结构是最弱的结构，难以进行整体性学习，学习起来时间长，而实际应用价值又很局限。&lt;/p&gt;
+&lt;p&gt;可能的话，&lt;strong&gt;要尽量找出随意信息中可能的逻辑结构（于无序中寻有序），能帮助你记忆。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;强结构&#34;&gt;强结构
+&lt;/h3&gt;&lt;p&gt;具体信息结构和过程信息是最强的信息结构，二者会唤起你的实际经验。&lt;/p&gt;
+&lt;p&gt;新的知识可以与旧的经验很好的联系起来。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;编写程序包括了具体信息结构和过程信息结构，修改程序修改程序后的结果会立即反馈给你，各种概念不断地出现在脑海中。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;联系观点比喻法内在法图表法&#34;&gt;联系观点（比喻法、内在法、图表法）
+&lt;/h1&gt;&lt;p&gt;将知识分为两类：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;困难信息&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;关键信息&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;困难信息&#34;&gt;困难信息
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;困难信息可能是一系列日期，或者是一系列步骤。步骤间没有什么逻辑关系。&lt;/strong&gt;
+困难信息可能是[[16 抽象信息|抽象信息]]、[[12 随意信息|随意信息]]，在这些情况下，应用联想法可以使知识记得牢。&lt;/p&gt;
+&lt;h3 id=&#34;关键信息&#34;&gt;关键信息
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;关键信息就像是一座建筑的地基，它构成了我们学习其他知识的基础。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果不是特别关键和困难的信息，就没必要采取专门的技术。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因为大部分的学习过程是潜意识的，你在不知不觉中就可能形成了足够的联系和模型，而没有应用什么专门的技术。&lt;/p&gt;
+&lt;h2 id=&#34;比喻法联系观点&#34;&gt;比喻法（联系观点）
+&lt;/h2&gt;&lt;p&gt;比喻本是一种文学上的工具，用来&lt;strong&gt;将某个物体与其他物体联系在一起，而实际上二者并没有实际的联系。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;比如：比如说一名女性有沙漏一样的身材，并不是说她的身体是玻璃的，黄沙从她曼妙的身体不停地往下流淌。&lt;/p&gt;
+&lt;p&gt;这只是一个比喻，形容她的身材与沙漏的曲线一样玲珑。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;明喻是比喻的一种类型，明喻法在比较两个物体时，常用“好像”或“如”等词。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;男人强壮得好像一头公牛；她的皮肤白如牛奶；寒风像结了冰的刀子割在我的脸上，以上这些都是明喻。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;比喻就是在不熟悉的知识和熟悉的知识之间架起一座沟通的桥梁。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不必拘泥于二者有多么相似，只要有一点相似，不管是视觉、听觉、触觉还是直觉，也不管是原理、目的还是过程，都可以拿来比喻，比喻法也就是建立模型的方法。&lt;/p&gt;
+&lt;h3 id=&#34;可以按照下面三个步骤找出一个比喻&#34;&gt;可以按照下面三个步骤找出一个比喻
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;确定你要深入理解和记忆的信息。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;在你的个人经验中找到与信息部分相似的东西（不一定完全符合）&lt;/strong&gt;，与其寻找一个完全符合的东西，不如稍作让步，找到十几个部分符合的“不完美比喻”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;重复上述过程，检查比喻不恰当的地方。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;清单笔记总结比喻法&#34;&gt;清单笔记总结比喻法
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;比喻法
+&lt;ul&gt;
+&lt;li&gt;确定你要理解的信息&lt;/li&gt;
+&lt;li&gt;在个人经验中找到与信息相似的部分&lt;/li&gt;
+&lt;li&gt;重复检查恰当的比喻，并修正。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;智力挑战&#34;&gt;智力挑战
+&lt;/h3&gt;&lt;p&gt;本次智力挑战在于提高你运用比喻法理解和记忆抽象信息的能力。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;坚持至少两周内每天一次好好阅读学习内容，阅读完教材或笔记
+后，写下至少五个主要观点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;针对每个观点，写一个可以解释观点的比喻。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;假如比喻不能完全解释观点，尝试寻找更多可以解释观点的比
+喻。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;应用10岁规则。是否能用这个比喻解释给一个10岁的小孩听？假
+如你的比喻还是和原始观点一样，孩子听不懂。重新来过吧，直到你找
+到简单的他能明白的比喻。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;针对其他观点，重复上述过程，直到你确定自己真正理解为止。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;内在化&#34;&gt;内在化
+&lt;/h2&gt;&lt;p&gt;在脑海中出现图像，而且有声音、触觉和情感等。&lt;/p&gt;
+&lt;p&gt;要内在化一个知识：&lt;strong&gt;最好的方法就是先简单地在脑海中想象一幅图像，如果知识本身就有图像时最好&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;想象一束光进入你的双眼，通过视网膜上的视杆细胞和视锥细胞，再通过视神经进入大脑的过程肯定比想象所谓的道德哲学要容易得多。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;具体的内在化效果最好，而抽象信息最适合比喻法。当然了，二者之间尚有相当大的灰色地带&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作者在书中举了内在化计算行列式的过程。&lt;/p&gt;
+&lt;p&gt;首先要想象一个2×2的表格，其中有4个数字，然后想象我的右手从左上的数字挪动到右下的数字，同时想象在表格上留下了一条蓝色的条纹，而且因为手上抓了数字而变得沉重。&lt;/p&gt;
+&lt;p&gt;接着再想象我的左手从右上的数字划到左下的数字，同时留下了红色的条纹，而右手感到重量减轻。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;通过将具体的感觉、声音以及肌肉的运动与原知识相连，记忆更加容易。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;内在化还有一步就是赋予知识以情感，心理学家早就知道不同的情感状态会影响记忆的效果。&lt;/p&gt;
+&lt;p&gt;将知识与情感（即使是很小的情感）相联系总是比干巴巴的知识更容易记得住。&lt;/p&gt;
+&lt;h3 id=&#34;如何进行内在化&#34;&gt;如何进行内在化
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;明确你要内在化的概念。&lt;/strong&gt; 这是一个生物过程，还是编程中的函数或者是一个数学概念？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;从建立脑海中的图像开始。&lt;/strong&gt; 如果你不习惯内在化，可以先试着在纸上画出概念的粗略图，多次尝试后，你就会直接在脑海中想象了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;脑海中的图像是静态的，还是栩栩如生的动态场景？&lt;/strong&gt; 掌握一个行列式需要好几个步骤，所以要让图像动起来，就仿佛在看一部电影一样。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;现在开始加上其他感官。试着用手去拿它，去摸它，去打开它，去嗅它的味道，去听它的声音，动用你身体的所有感官，将所有的感觉与运动的图像相联系。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;加入更多的感觉或情感。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不断重复和优化图像，直到你一想到它就能很快地回忆起知识。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;像比喻一样，内在化也是个创造性的试验过程。你不可能一开始就想出完美的图像来。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要的是开始去做，在不断地优化、抛弃图像中不适合的部分，最后你一定会得到一幅记忆深刻、栩栩如生的图像。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;比喻内在化&#34;&gt;比喻内在化
+&lt;/h3&gt;&lt;p&gt;将三个单词（比喻、内在化、视觉）融合在一起有点过分，但是比喻法和内在化结合可以让你更好地理解和记忆抽象但重要的知识。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;过程和内在化是一样的，不同之处在于你首先要用一个比喻来替代抽象的知识。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然应用比喻法有些繁琐，但是当难以想象出概念的图像时，比喻法还是很有用的。&lt;/p&gt;
+&lt;h3 id=&#34;清单笔记总结内在化&#34;&gt;清单笔记总结内在化
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;内在化
+&lt;ul&gt;
+&lt;li&gt;明确需要内在化的概念&lt;/li&gt;
+&lt;li&gt;建立静态或动态图像，然后建立其它感官（听、触、嗅）与图像联系起来&lt;/li&gt;
+&lt;li&gt;不断优化想象的图像，直到你可以很快回忆起概念&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;智力挑战-1&#34;&gt;智力挑战
+&lt;/h3&gt;&lt;p&gt;本项智力挑战的目的是&lt;strong&gt;锻炼你形成图像以及给图像加上各种不同感觉的能力。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;取一张白纸和铅笔，准备作画。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打开课本，找两个概念或观点，如果你不太熟悉内在化，建议你选择容易想象出图像的概念先试一试。完全抽象的概念或者过于复杂的概念对于初学者来说不太适合。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在脑海中建立图像，将感觉和情感加上去。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;根据脑海中所想，快速画出概念的图像来（30～60秒）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;坚持两周每天选几个概念练习内在化过程。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;图表法联系观点&#34;&gt;图表法（联系观点）
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;图表是内在化的简化。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;创作图表比想象一幅图像花费的时间更多，但是操作起来更容易，而且可以用于非常抽象的观点，抽象的观点一般难以想象&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一幅图表就是一幅将多个信息压缩在一起的图画，散点图可以将成百上千的数据点压缩到一张图中，流程图技术可以把一系列复杂的内部作用关系和步骤绘制到一幅图中，让人容易看明白。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;图表最重要的是方便你的理解，而不是追求漂亮的图画。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;人们很容易追求所谓简单、整洁、美观的图画，不过随后却要花费成堆的时间去理解其内容。&lt;strong&gt;只要能满足你的需要，简单和杂乱的图都是可以的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这里主要介绍三种图标类型：（三种类型的适当组合可以帮助你理解几乎所有的概念）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;流程图&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;概念图&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;图像&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;流程图&#34;&gt;流程图
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;绘制一系列的步骤&lt;/strong&gt;（怎样做长除法，怎样写一份现金流转声明等）。（类似[[12 建立时间管理的系统#^c12e86|清单笔记中的流程清单]]）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;绘制历史事件，创造分支将事件联系在一起，不仅通过事件之间的因果关系，而且根据事件的发生时间来建立联系。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;绘制一个系统&lt;/strong&gt;（例如函数在程序中怎样执行）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;流程图的基础是&lt;strong&gt;从一个简单的元素开始，然后在这个成分及与之相联系的不同知识之间画出联系箭头。&lt;/strong&gt;（从最原始的观点出发，逐步画出其他相关的观点来。）&lt;/p&gt;
+&lt;h3 id=&#34;概念图&#34;&gt;概念图
+&lt;/h3&gt;&lt;p&gt;概念图将观点联系在一起，与笔记流密切相关。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;概念图里的关系并不是某个顺序中的不同步骤或是按日期顺序排列的观点，而是观点之间的内在关系。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在不同观点之间画上箭头，箭头上还需要加上一些简单的话语，说明二者是什么样的关系。&lt;/strong&gt;（可以理解为关系图，和流程图按顺序填入步骤不同）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;假如我想画出不同财务会计原理的简图&lt;/p&gt;
+&lt;p&gt;首先我要写下四个基本的清单：资产负债表、收入、留存收益以及现金流&lt;/p&gt;
+&lt;p&gt;然后我可以在它们之间建立各种联系，最后形成知识网。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;假如我想画出小说中的角色关系&lt;/p&gt;
+&lt;p&gt;我会先把主角放在图的中间，然后其他人物以他为中心按照与主角的关系分别画在旁边。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这种方法有助于我们理顺思路，将庞大的知识组织得条理分明。从最重要的观点出发，不断发出分支细化知识及分解观点。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;图像&#34;&gt;图像
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;图像强调的是用粗糙简单的涂鸦来代替文字，包括观点和观点之间的联系，图像比文字更加生动，容易记住。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;没有必要花费很长的时间画一些复杂的图画，花10～20秒简单地涂鸦是比较好的选择。&lt;/p&gt;
+&lt;h3 id=&#34;图表与比喻--内在化-结合在一起&#34;&gt;图表与比喻 &amp;amp; 内在化 结合在一起
+&lt;/h3&gt;&lt;p&gt;图表可以和比喻及内在化混合在一起，以加深对知识的理解。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/post/%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/%e5%a6%82%e4%bd%95%e9%ab%98%e6%95%88%e5%ad%a6%e4%b9%a0/3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;智力挑战-2&#34;&gt;智力挑战
+&lt;/h3&gt;&lt;p&gt;本智力挑战目的在于&lt;strong&gt;提高你画图表的能力和速度&lt;/strong&gt;，因为图表是上面提到的三种联想技术中速度最慢的。假如你想在学习中使用它而不成为一种负担，就必须提高画图表的速度。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;找出一个观点或是一系列概念，准备画图表。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;设定时间2～5分钟，然后开始画图表，图表可以是上面的任何形式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;时间一到，停止画图表，统计一下你的工作量，包括信息的多少、建立了多少联系，等等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;每天进行一次，重复两周，直到你可以轻松自如地画图表。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;随意信息的处理&#34;&gt;随意信息的处理
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;随意信息是整体性学习中的一个难点。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;例如：
+·    一系列日期
+·    解剖学术语
+·    一系列步骤
+·    各种各样的规章、条例
+·    科学公式&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一般情况下，这些信息只能靠机械记忆了，但整体性学习要尽可能避免死记硬背，这时你可以使用上面提到的比喻法、内在化、图表法。&lt;/p&gt;
+&lt;p&gt;如果这些效果都不是很好，这种你可以使用下面这种方式处理随意信息：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;联想法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;挂钩法&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;随意信息的结构很弱，总是需要某种转化后才容易学习：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;弱 ──重复学习。&lt;/li&gt;
+&lt;li&gt;好 ──通过联想法、挂钩法以及信息压缩技术学习。&lt;/li&gt;
+&lt;li&gt;最好 ──通过比喻法、内在化法及图表学习。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;挂钩法随意信息的处理&#34;&gt;挂钩法（随意信息的处理）
+&lt;/h2&gt;&lt;p&gt;挂钩法类似于联想法。&lt;/p&gt;
+&lt;p&gt;利用挂钩系统，&lt;strong&gt;你可以将要记忆的信息与数字联系在一起，所以即使这些信息并不是按照特殊顺序排列，你也能回忆起每一个信息来。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;挂钩法对于记忆日期类的数字也是很有用的，&lt;strong&gt;挂钩法并不是将一系列观点互相联系在一起，而是将每一个观点与一个特殊的数字联系在一起。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;挂钩法的使用步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;给基本数字创造形象&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/post/%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/%e5%a6%82%e4%bd%95%e9%ab%98%e6%95%88%e5%ad%a6%e4%b9%a0/1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;一旦你建立了挂钩系统后，就可以将任何符号与这13个位置联系在一起&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;想象一瓶葡萄酒和一把刀打架的场景就能让我记住刀（象征亨利·法约尔关于劳动分配的原理）在第九个位置。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;使用挂钩法记忆日期&#34;&gt;使用挂钩法记忆日期
+&lt;/h3&gt;&lt;p&gt;挂钩法对于记忆数字效果出奇的好。&lt;/p&gt;
+&lt;p&gt;比如记住哥伦布发现美洲的年份 1492年。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;创造与事件相关的图像。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;将1、4、9、2建立的符号和图像挂钩。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;将数字按顺序建立联系。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;高级挂钩法&#34;&gt;高级挂钩法
+&lt;/h3&gt;&lt;p&gt;高级挂钩法使用0～9的声音和数字0～9建立联系，而不是押韵的图像。&lt;/p&gt;
+&lt;h3 id=&#34;清单笔记总结挂钩法&#34;&gt;清单笔记总结挂钩法
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;挂钩法
+&lt;ul&gt;
+&lt;li&gt;给1-13数字创造形象&lt;/li&gt;
+&lt;li&gt;建立好挂钩系统后，把需要记忆的日期、概念进行挂钩联想。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;智力挑战-3&#34;&gt;智力挑战
+&lt;/h3&gt;&lt;p&gt;挂钩法来自联想法，所以完成本次智力挑战之前应先做好联想法的智力挑战，&lt;/p&gt;
+&lt;p&gt;本智力挑战的目的是&lt;strong&gt;熟悉挂钩法，并尝试用它记忆一系列信息，特别是数字信息，如日期。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;寻找一个适合运用挂钩法的清单信息，或是一组信息、日期，确
+信信息个数不超过13个。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;按照挂钩法的步骤进行挂钩记忆。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;每两周花一天时间重复上述练习，并检验自己的记忆效果。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;信息压缩技术随意信息处理&#34;&gt;信息压缩技术（随意信息处理）
+&lt;/h2&gt;&lt;p&gt;信息压缩是另一种常用的储存大量随意的方法，信息压缩的目标是减少信息的容量，寻找信息的逻辑关系。&lt;/p&gt;
+&lt;p&gt;我一般通过三种主要方式进行信息压缩：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;记忆术&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;图像联系&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;笔记压缩法&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;记忆术&#34;&gt;记忆术
+&lt;/h3&gt;&lt;p&gt;用一个短语或单词来储存数个信息的方法。（类似英文缩写，比如USA）&lt;/p&gt;
+&lt;p&gt;只要求你想要压缩的信息不太多，选好一个短语或单词能组织好信息就可以了，比如RED、NASA或USA都是不错的选择。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;尽量简单通用的短语或单词。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;图像联系&#34;&gt;图像联系
+&lt;/h3&gt;&lt;p&gt;图像联系可以看作联想法、图表法、内在化的综合体，&lt;strong&gt;把几个信息联系起来并且用一张图表来表示。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我学习管理学时，将五个压力模型画在一张画上，每一个与原理论的不同部分相联系。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;使用图像联系的另一个办法是&lt;strong&gt;创作一幅画而将多个信息放在其中。首先你用一个简单的符号替代每一个信息，然后再将这些符号放在一张图像中。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;笔记压缩法&#34;&gt;笔记压缩法
+&lt;/h3&gt;&lt;p&gt;笔记压缩对于快速掌握大量材料是一个有用的办法。&lt;/p&gt;
+&lt;p&gt;它可以作为应用其他信息压缩技术、联想法、挂钩法或其他整体性学习技术的起点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;笔记压缩的目的就是将一大堆需要学习的知识减少至几页笔记。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;让你能组织大量的信息。
+通常，在一堂课的时间里要记住数以百计的事实、概念和观点，并将之完全分好类是很困难的，但是假如信息只有两三页纸，要组织好就容易多了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;更容易建立联系。
+信息压缩后，可以更仔细地观察课程的整个结构，让你更好地建立知识间的联系。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;压缩笔记的步骤&#34;&gt;压缩笔记的步骤
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;拿出几张空白纸，准备好需要压缩内容的笔记。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;用最小的字，写下笔记中主要的观点。&lt;/strong&gt; 使用尽可能少的字。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;接着写下与之联系的观点、公式、概念或定义。&lt;/strong&gt; 尽可能写小一点、少一点，节省空间。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;持续上述自由写下观点的过程，直到笔记中的每一个观点都写下来了为止。&lt;/strong&gt; （最后你会得到1-3张密密麻麻写满信息的纸）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有时候可以更进一步，将压缩后的内容加工、修饰得更有条理、好看一些。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/post/%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/%e5%a6%82%e4%bd%95%e9%ab%98%e6%95%88%e5%ad%a6%e4%b9%a0/2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;智力挑战-4&#34;&gt;智力挑战
+&lt;/h3&gt;&lt;p&gt;本智力挑战的目的是使大家熟悉信息压缩技术的使用。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;每天进行一次，从你的课本或笔记中挑出需要压缩的信息，然后按照记忆术或图像联系进行信息压缩记忆。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;按照上述做法坚持两周后，将前两周学习的材料进行笔记压缩，将前面所有的记忆术和图像联系综合在一起。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;测试一下你是否能记住整个信息。坚持练习四周（包括两周的笔记压缩练习）或者直到你对这些技术运用自如。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;实际应用&#34;&gt;实际应用
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;要深入拓展你在课堂上学到的知识，最好的办法就是将知识应用到实际生活中去。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;假如你需要将很多抽象的课程进展到一定的深度，而这些信息可能不太重要或者未来很多年都不一定用得上，就有可能陷入死读书的困局中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;通过将知识应用于实际，知识就会记得更牢。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;实际应用并非一种按步骤进行的技术，它是一个创造性的过程。&lt;/p&gt;
+&lt;p&gt;在这个过程中你要寻找不寻常的方式去应用观念，也许你现在还不知道该如何在日常生活中应用所学的历史知识或是数学知识，但是我确信如果你能花费十分钟做一次头脑风暴，一定会大有收获。&lt;/p&gt;
+&lt;p&gt;这里推荐一些作者把不同知识实际运用的方法：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;统计学──我利用统计学知识给本书起名字以及定价。利用谷歌搜索引擎，我尝试各种名字和价格，最终利用统计学决定了这个书名和价格最为吸引人。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;计算机──除了编程这种明显的应用之外，我还发现计算机科学是寻找问题的有用途径，纠错、算法都是可以借鉴到其他地方的有用思想。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;会计学──会计学能帮助我理清个人财务以及报税。运用基本的会计学原理整理我的个人财务，使它们看起来一目了然。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;经济学──经济学教会我重新看待金钱在社会中的价值，明白了金钱仅仅是物质交换的载体后，我的个人哲学体系也随之发生了很多变化。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;历史──历史是了解现在的工具，通过学习古代亚洲史能帮助我们看清现代中国、印度和日本的种种问题。历史就是照亮现在的一面镜子。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;智力挑战-5&#34;&gt;智力挑战
+&lt;/h3&gt;&lt;p&gt;接下来的两个月，&lt;strong&gt;每周抽一点时间，看看学到的知识如何应用到自
+己的实际生活中去。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;花5～10分钟罗列各种可能应用的地方，确保至少有20个用处，不要嘲笑那些看起来可笑的想法，只管顺着自己的思路写下去。&lt;/p&gt;
+&lt;p&gt;如有可能，请将这些想法付诸实际行动&lt;/p&gt;
+&lt;h1 id=&#34;模型纠错&#34;&gt;模型纠错
+&lt;/h1&gt;&lt;p&gt;模型纠错实际上就是实践的代名词：&lt;strong&gt;不断地练习和实践，在实践中发现问题，测试自己是整体性学习过程中纠错的唯一手段。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;假如整体性学习过程完成得非常好，纠错花的时间就少。完美无缺是不可能的，因此不断练习，不断纠错总是个好办法。&lt;/p&gt;
+&lt;p&gt;以下是模型纠错过程中的一点建议：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;分清是拼写错误还是概念问题&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我相信很多程序员都碰到过写好的程序无法运行，问题仅仅是某个字母打错了，花了半个小时跟踪一个问题，只不过是变量名弄错了。&lt;/p&gt;
+&lt;p&gt;但是假如你不理解一个基本概念和某个算法，问题就严重得多了。&lt;/p&gt;
+&lt;p&gt;模型纠错同样如此，&lt;strong&gt;当你发现模型存在问题时，首先要分清是简单的错误还是关键概念的理解出了问题。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对于简单的错误，只要仔细点就可以了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;若是概念问题，那就需要仔细看看模型、比喻法以及内在化的过程是否犯了错误。&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;散弹枪策略&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;花费数小时重复解决同一类型的问题与死记硬背没有什么不同。&lt;/p&gt;
+&lt;p&gt;所谓散弹枪策略，就是&lt;strong&gt;每一种类型的问题都做一做，同一类的问题不要重复。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当然，我觉得如果你必须要花好几个小时重复同一个问题，那么就这样做也无可厚非。&lt;/p&gt;
+&lt;p&gt;不过，更好的办法是尽早使用整体性学习方法，这样你就能更容易地学会解决某类问题的方法。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;延伸练习时间&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;把总的练习时间分配到每一天，不要平时不烧香，临时抱佛脚，把全部练习时间集中在考试前做。&lt;/p&gt;
+&lt;p&gt;每天一次快速充电比考试前一天晚上大量突击更容易坚持。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重复练习同类问题是一种缓慢的学习方式。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;模型纠错是必要的，&lt;strong&gt;但如果你需要反反复复做同样类型的问题，你可能需要在拓展阶段或理解阶段做更多的工作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果&lt;strong&gt;你觉得不太理解某个主题，试试返回去做做[[8 拓展阶段|拓展工作]]。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;智力挑战-6&#34;&gt;智力挑战
+&lt;/h3&gt;&lt;p&gt;如果你已经定期练习在课堂上碰到的问题，请继续做你正在做的事。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;尝试实行那些能改善如何练习的观点，但在其他方面坚持自己探索。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果你不能定期做练习，或者你正在做考试前的疯狂冲刺，试着把你的学习延伸到整个学期，每天花几分钟学习而不是考试前花数个小时突击。&lt;/p&gt;
+&lt;h1 id=&#34;以项目为基础的学习&#34;&gt;以项目为基础的学习
+&lt;/h1&gt;&lt;p&gt;在没有老师指点、没有考试负担时，这种学习方式很有用。&lt;/p&gt;
+&lt;p&gt;以项目为基础的学习方式简单地说就是&lt;strong&gt;设定一个需要1～3个月达成的目标，达成目标的过程就是学习的过程，达成了目标也就达到了学习的效果。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为了完成项目，你必须围绕着目标努力学习，以项目为基础的学习符合整体性学习的每一个过程。&lt;/p&gt;
+&lt;p&gt;以项目为基础的学习也没有固定的公式，以下介绍一些应用这种方法的例子：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;编程──设计一个大概需要1～3个月完成的项目，比如一个小的应用程序，建一个网站，写一个小游戏。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;历史──关于你正在学习的某个历史问题写一篇探讨性的文章。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;财务会计──选择几家你打算投资的公司，对它们的财政报表做一个详细的分析。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在开始设计一个项目之前，请读一读我的建议：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;从小项目开始。
+一个好的项目会提升你的层次，但是太大的、看起来遥遥无期的项目会动摇你的信心。所以，如果你的目标仅仅是学习，还是设定一些&lt;strong&gt;需要花费1～3个月的项目为佳。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;记录下来。
+将完成项目的过程记录在纸上，将工作进度记录在纸上会加强你的自信心，翻阅前面的工作，会激发你继续进行下去的欲望。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;创造一个有意义的目标。
+仅仅有一个项目还不够，我发现&lt;strong&gt;有一个清晰的目标时，学习才更为主动，热情更高。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;假如项目不仅是为了学习而设立的，项目本身具有的意义会激发你的热情，并使你为着目标而持续地努力工作，不断学习。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;智力挑战-7&#34;&gt;智力挑战
+&lt;/h3&gt;&lt;p&gt;设计一个项目，大约花费一个月的时间完成。比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电子书&lt;/li&gt;
+&lt;li&gt;发明&lt;/li&gt;
+&lt;li&gt;服装设计&lt;/li&gt;
+&lt;li&gt;编程&lt;/li&gt;
+&lt;li&gt;网站&lt;/li&gt;
+&lt;li&gt;写博客&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;项目应该简单，但是也不能太容易。&lt;/p&gt;
+&lt;p&gt;写下预计的完成日期，计划好日程，每天按时完成部分工作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在你完成项目之后，回顾一下以项目为基础的学习方法，看看还有什么相关的项目可以去做。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;知识的延伸&#34;&gt;知识的延伸
+&lt;/h1&gt;&lt;p&gt;学习仅仅为了通过考试是不够的，&lt;strong&gt;假如不能应用所学，即使考试成绩再好也无济于事。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;整体性学习的最后阶段是应用，你不仅要理解和拓展知识，而且要测试、纠错和应用知识。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;知识完整地从获取阶段进行到应用阶段对于考出好成绩并不是必需的，但是如果知识在学习过程中走得越深入，记忆得就越清楚，应用得就越灵活。&lt;/p&gt;
+&lt;h1 id=&#34;费曼学习法&#34;&gt;费曼学习法
+&lt;/h1&gt;&lt;p&gt;可以用费曼学习法加强整体性学习的输出&lt;/p&gt;
+&lt;h2 id=&#34;模拟教学&#34;&gt;模拟教学
+&lt;/h2&gt;&lt;p&gt;假设自己是一名老师，把学习到的内容简洁的教给其他人（不会这个知识的）。&lt;/p&gt;
+&lt;p&gt;需要注意的问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;自己能不能将问题讲明白？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;讲课的时候什么地方卡壳了？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;什么地方讲混淆了？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;反馈--简化并重复&#34;&gt;「反馈」 &amp;amp; 「简化并重复」
+&lt;/h2&gt;&lt;p&gt;问你的听众哪里没听懂，然后&lt;strong&gt;换个方式再简化这方面的内容，试着用一个十分简单的类比来说明。&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Hugo网站在Github上的架设流程</title>
         <link>https://guitar550.github.io/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
         <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
