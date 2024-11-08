@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>计算机 on 小威BLOG</title>
-        <link>http://localhost:1313/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/</link>
+        <link>https://guitar550.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/</link>
         <description>Recent content in 计算机 on 小威BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo网站在Github上的架设流程</title>
-        <link>http://localhost:1313/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
+        <link>https://guitar550.github.io/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
         <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</guid>
-        <description>&lt;img src="http://localhost:1313/post/%E8%AE%A1%E7%AE%97%E6%9C%BA/Hugo%E7%BD%91%E7%AB%99%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/1.png" alt="Featured image of post Hugo网站在Github上的架设流程" /&gt;&lt;h2 id=&#34;使用主题&#34;&gt;使用主题
+        <guid>https://guitar550.github.io/p/hugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</guid>
+        <description>&lt;img src="https://guitar550.github.io/post/%E8%AE%A1%E7%AE%97%E6%9C%BA/Hugo%E7%BD%91%E7%AB%99%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/1.png" alt="Featured image of post Hugo网站在Github上的架设流程" /&gt;&lt;h2 id=&#34;使用主题&#34;&gt;使用主题
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;在&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/releases/tag/v0.136.5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
