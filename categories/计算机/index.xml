@@ -35,7 +35,6 @@
 &lt;p&gt;打开命令提示符（cmd)，输入命令 &lt;strong&gt;hugo server&lt;/strong&gt;，即可打开预览网站。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;发布网站&#34;&gt;发布网站
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
