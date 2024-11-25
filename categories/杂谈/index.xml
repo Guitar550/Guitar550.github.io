@@ -6,7 +6,22 @@
         <description>Recent content in 杂谈 on 小威BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我的微精通项目记录</title>
+        <link>https://guitar550.github.io/p/%E6%88%91%E7%9A%84%E5%BE%AE%E7%B2%BE%E9%80%9A%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/p/%E6%88%91%E7%9A%84%E5%BE%AE%E7%B2%BE%E9%80%9A%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;h1 id=&#34;计算机&#34;&gt;计算机
+&lt;/h1&gt;&lt;h5 id=&#34;hugo个人博客建立2024114&#34;&gt;Hugo个人博客建立（2024/11/4)
+&lt;/h5&gt;&lt;h5 id=&#34;huog个人工作室网站建立2024114&#34;&gt;Huog个人工作室网站建立（2024/11/4)
+&lt;/h5&gt;&lt;h5 id=&#34;习惯用markdown语言来记录笔记2024&#34;&gt;习惯用Markdown语言来记录笔记（2024）
+&lt;/h5&gt;&lt;hr&gt;
+&lt;h1 id=&#34;外语&#34;&gt;外语
+&lt;/h1&gt;&lt;h5 id=&#34;考取日语n2证书2024&#34;&gt;考取日语N2证书（2024）
+&lt;/h5&gt;</description>
+        </item>
+        <item>
         <title>我的减肥实验计划</title>
         <link>https://guitar550.github.io/p/%E6%88%91%E7%9A%84%E5%87%8F%E8%82%A5%E5%AE%9E%E9%AA%8C%E8%AE%A1%E5%88%92/</link>
         <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
@@ -57,12 +72,13 @@
         <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E5%86%99%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
-        <description>&lt;h1 id=&#34;目录&#34;&gt;目录
+        <description>&lt;blockquote&gt;
+&lt;h1 id=&#34;目录&#34;&gt;目录
 &lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%b8%89%e4%b8%aa%e9%97%ae%e9%a2%98&#34; &gt;三个问题&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#literature-notes&#34; &gt;Literature Notes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%b8%80%e4%b8%aachapter%e4%b8%80%e4%b8%aa%e9%87%8d%e7%82%b9&#34; &gt;一个Chapter一个重点&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%bb%ba%e7%ab%8b-slip---box%e7%b3%bb%e7%bb%9f&#34; &gt;建立Slip - Box系统&lt;/a&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%bb%ba%e7%ab%8bslip---box%e7%b3%bb%e7%bb%9f&#34; &gt;建立Slip - Box系统&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e9%97%aa%e5%bf%b5%e7%ac%94%e8%ae%b0&#34; &gt;闪念笔记&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%96%87%e7%8c%ae%e7%ac%94%e8%ae%b0&#34; &gt;文献笔记&lt;/a&gt;&lt;/li&gt;
@@ -73,6 +89,8 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
 &lt;h1 id=&#34;三个问题&#34;&gt;三个问题
 &lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;大部分不需要精读的书，可以用通过三个问题来作阅读笔记&lt;/p&gt;
@@ -150,7 +168,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;播放器&#34;&gt;播放器
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;mpv&lt;/li&gt;
+&lt;li&gt;MPV&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;ppt&#34;&gt;PPT
 &lt;/h2&gt;&lt;ul&gt;
@@ -183,6 +201,7 @@
 &lt;h2 id=&#34;制谱软件&#34;&gt;制谱软件
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;MuseScore&lt;/li&gt;
+&lt;li&gt;Neck Diagrams（吉他指板图制作）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;影片制作&#34;&gt;影片制作
 &lt;/h2&gt;&lt;ul&gt;
