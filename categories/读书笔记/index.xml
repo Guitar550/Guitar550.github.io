@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>读书笔记 on 小威BLOG</title>
-        <link>https://guitar550.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+        <link>http://localhost:7541/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
         <description>Recent content in 读书笔记 on 小威BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:7541/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>饮食术</title>
-        <link>https://guitar550.github.io/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/</link>
+        <link>http://localhost:7541/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/</link>
         <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/</guid>
-        <description>&lt;h1 id=&#34;目录&#34;&gt;目录
+        <guid>http://localhost:7541/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/</guid>
+        <description>&lt;blockquote&gt;
+&lt;h1 id=&#34;imglistsvg-目录&#34;&gt;&lt;img src=&#34;http://localhost:7541/img/list.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt; 目录
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e8%a1%80%e7%b3%96%e5%80%bc%e6%98%af%e5%81%a5%e5%ba%b7%e7%9a%84%e5%85%b3%e9%94%ae&#34; &gt;血糖值是健康的关键&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%b3%96%e7%b1%bb%e4%b8%ad%e6%af%92&#34; &gt;糖类中毒&lt;/a&gt;&lt;/li&gt;
@@ -27,6 +35,7 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%b8%ba%e4%ba%86%e4%bd%bf%e5%a4%a7%e8%84%91%e5%be%97%e5%88%b0%e7%8a%92%e8%b5%8f%e8%80%8c%e4%b8%8d%e6%96%ad%e6%91%84%e5%85%a5%e7%b3%96%e7%b1%bb&#34; &gt;为了使大脑得到犒赏，而不断摄入糖类&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%95%b4%e4%b9%a6%e7%9a%84%e6%80%9d%e7%bb%b4%e5%af%bc%e5%9b%be&#34; &gt;整书的思维导图&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;h1 id=&#34;血糖值是健康的关键&#34;&gt;血糖值是健康的关键
 &lt;/h1&gt;&lt;p&gt;&lt;strong&gt;血糖值是造成您日常焦虑、衰老、疾病的罪魁祸首&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -225,10 +234,10 @@
 &lt;p&gt;这和药物依赖的机制高度相似，两者都是为了&lt;strong&gt;使大脑得到「犒赏」，而不断重复中毒&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;当你每次忍不住想摄入糖分，&lt;strong&gt;并不是意志不坚定，而是大脑中毒造成的&lt;/strong&gt;。&lt;/p&gt;
 &lt;h1 id=&#34;整书的思维导图&#34;&gt;整书的思维导图
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/1.webp&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:7541/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/1.webp&#34;
 	width=&#34;828&#34;
 	height=&#34;3968&#34;
-	srcset=&#34;https://guitar550.github.io/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/1_hu11131937745935052687.webp 480w, https://guitar550.github.io/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/1_hu13125009895195836928.webp 1024w&#34;
+	srcset=&#34;http://localhost:7541/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/1_hu11131937745935052687.webp 480w, http://localhost:7541/p/%E9%A5%AE%E9%A3%9F%E6%9C%AF/1_hu13125009895195836928.webp 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -241,12 +250,19 @@
         </item>
         <item>
         <title>暗知识</title>
-        <link>https://guitar550.github.io/p/%E6%9A%97%E7%9F%A5%E8%AF%86/</link>
+        <link>http://localhost:7541/p/%E6%9A%97%E7%9F%A5%E8%AF%86/</link>
         <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/p/%E6%9A%97%E7%9F%A5%E8%AF%86/</guid>
+        <guid>http://localhost:7541/p/%E6%9A%97%E7%9F%A5%E8%AF%86/</guid>
         <description>&lt;blockquote&gt;
-&lt;h1 id=&#34;目录&#34;&gt;目录
+&lt;h1 id=&#34;imglistsvg-目录&#34;&gt;&lt;img src=&#34;http://localhost:7541/img/list.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt; 目录
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%88%86%e6%95%a3%e7%9f%a5%e8%af%86&#34; &gt;分散知识&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e9%87%8d%e8%a6%81%e6%80%a7%e7%9f%a5%e8%af%86&#34; &gt;重要性知识&lt;/a&gt;&lt;/li&gt;
@@ -435,12 +451,19 @@
         </item>
         <item>
         <title>第一性原理</title>
-        <link>https://guitar550.github.io/p/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</link>
+        <link>http://localhost:7541/p/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</link>
         <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/p/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</guid>
+        <guid>http://localhost:7541/p/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</guid>
         <description>&lt;blockquote&gt;
-&lt;h1 id=&#34;目录&#34;&gt;目录
+&lt;h1 id=&#34;imglistsvg-目录&#34;&gt;&lt;img src=&#34;http://localhost:7541/img/list.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt; 目录
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%ac%ac%e4%b8%80%e6%80%a7%e5%8e%9f%e7%90%86&#34; &gt;第一性原理&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%bc%94%e7%bb%8e%e6%b3%95&#34; &gt;演绎法&lt;/a&gt;
@@ -779,12 +802,19 @@
         </item>
         <item>
         <title>荒木飞吕彦的漫画术</title>
-        <link>https://guitar550.github.io/p/%E8%8D%92%E6%9C%A8%E9%A3%9E%E5%90%95%E5%BD%A6%E7%9A%84%E6%BC%AB%E7%94%BB%E6%9C%AF/</link>
+        <link>http://localhost:7541/p/%E8%8D%92%E6%9C%A8%E9%A3%9E%E5%90%95%E5%BD%A6%E7%9A%84%E6%BC%AB%E7%94%BB%E6%9C%AF/</link>
         <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/p/%E8%8D%92%E6%9C%A8%E9%A3%9E%E5%90%95%E5%BD%A6%E7%9A%84%E6%BC%AB%E7%94%BB%E6%9C%AF/</guid>
+        <guid>http://localhost:7541/p/%E8%8D%92%E6%9C%A8%E9%A3%9E%E5%90%95%E5%BD%A6%E7%9A%84%E6%BC%AB%E7%94%BB%E6%9C%AF/</guid>
         <description>&lt;blockquote&gt;
-&lt;h1 id=&#34;目录&#34;&gt;目录
+&lt;h1 id=&#34;imglistsvg-目录&#34;&gt;&lt;img src=&#34;http://localhost:7541/img/list.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt; 目录
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e7%ac%ac%e4%b8%80%e9%a1%b5%e7%9a%84%e9%87%8d%e8%a6%81%e6%80%a7&#34; &gt;第一页的重要性&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%8e%8c%e6%8f%a1-5w1h-%e7%9a%84%e8%a7%84%e5%88%99&#34; &gt;掌握 &amp;ldquo;5W1H&amp;rdquo; 的规则&lt;/a&gt;&lt;/li&gt;
@@ -885,12 +915,19 @@
         </item>
         <item>
         <title>如何高效学习 — 整体性学习法</title>
-        <link>https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/</link>
+        <link>http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/</link>
         <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/</guid>
+        <guid>http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/</guid>
         <description>&lt;blockquote&gt;
-&lt;h1 id=&#34;目录&#34;&gt;目录
+&lt;h1 id=&#34;imglistsvg-目录&#34;&gt;&lt;img src=&#34;http://localhost:7541/img/list.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt; 目录
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bb%80%e4%b9%88%e6%98%af%e6%95%b4%e4%bd%93%e6%80%a7%e5%ad%a6%e4%b9%a0&#34; &gt;什么是整体性学习&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e6%95%b4%e4%bd%93%e6%80%a7%e5%ad%a6%e4%b9%a0%e9%87%8c%e7%9a%84%e4%b8%80%e4%ba%9b%e6%a6%82%e5%bf%b5&#34; &gt;整体性学习里的一些概念&lt;/a&gt;
@@ -1481,10 +1518,10 @@
 &lt;p&gt;没有必要花费很长的时间画一些复杂的图画，花10～20秒简单地涂鸦是比较好的选择。&lt;/p&gt;
 &lt;h3 id=&#34;图表与比喻--内在化-结合在一起&#34;&gt;图表与比喻 &amp;amp; 内在化 结合在一起
 &lt;/h3&gt;&lt;p&gt;图表可以和比喻及内在化混合在一起，以加深对知识的理解。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/3.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/3.png&#34;
 	width=&#34;454&#34;
 	height=&#34;712&#34;
-	srcset=&#34;https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/3_hu3192167944027162542.png 480w, https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/3_hu8146333499328556197.png 1024w&#34;
+	srcset=&#34;http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/3_hu3192167944027162542.png 480w, http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/3_hu8146333499328556197.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1561,10 +1598,10 @@
 &lt;ol&gt;
 &lt;li&gt;给基本数字创造形象&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/1.png&#34;
 	width=&#34;452&#34;
 	height=&#34;399&#34;
-	srcset=&#34;https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/1_hu17286348530310405507.png 480w, https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/1_hu719903140157029037.png 1024w&#34;
+	srcset=&#34;http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/1_hu17286348530310405507.png 480w, http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/1_hu719903140157029037.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1685,10 +1722,10 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/2.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/2.png&#34;
 	width=&#34;601&#34;
 	height=&#34;578&#34;
-	srcset=&#34;https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/2_hu8185387863955378077.png 480w, https://guitar550.github.io/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/2_hu5798741183842563096.png 1024w&#34;
+	srcset=&#34;http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/2_hu8185387863955378077.png 480w, http://localhost:7541/p/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0-%E6%95%B4%E4%BD%93%E6%80%A7%E5%AD%A6%E4%B9%A0%E6%B3%95/2_hu5798741183842563096.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1861,12 +1898,19 @@
         </item>
         <item>
         <title>什么是微精通</title>
-        <link>https://guitar550.github.io/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
+        <link>http://localhost:7541/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</link>
         <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://guitar550.github.io/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
+        <guid>http://localhost:7541/p/%E4%BB%80%E4%B9%88%E6%98%AF%E5%BE%AE%E7%B2%BE%E9%80%9A/</guid>
         <description>&lt;blockquote&gt;
-&lt;h1 id=&#34;目录&#34;&gt;目录
+&lt;h1 id=&#34;imglistsvg-目录&#34;&gt;&lt;img src=&#34;http://localhost:7541/img/list.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt; 目录
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e4%bb%80%e4%b9%88%e6%98%af%e5%be%ae%e7%b2%be%e9%80%9a&#34; &gt;什么是微精通&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#%e5%be%ae%e7%b2%be%e9%80%9a%e7%9a%84%e5%ad%a6%e4%b9%a0%e7%bb%93%e6%9e%84&#34; &gt;微精通的学习结构&lt;/a&gt;
