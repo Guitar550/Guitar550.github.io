@@ -6,7 +6,100 @@
         <description>Recent content on 小威BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于文章排版的一些思考</title>
+        <link>https://guitar550.github.io/p/%E5%85%B3%E4%BA%8E%E6%96%87%E7%AB%A0%E6%8E%92%E7%89%88%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
+        <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://guitar550.github.io/p/%E5%85%B3%E4%BA%8E%E6%96%87%E7%AB%A0%E6%8E%92%E7%89%88%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
+        <description>&lt;p&gt;这段时间我开始注意到一些好的文章排版会对阅读的效率和节奏产生影响，&lt;/p&gt;
+&lt;p&gt;所以我整理了一些可以很好改善一篇文章观感的技巧，并把这些对文章的排版方式运用到自己博客的文章中。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;空格的运用&#34;&gt;「空格」的运用
+&lt;/h1&gt;&lt;h2 id=&#34;中文--英文-之间要加入空格&#34;&gt;中文 &amp;amp; 英文 之间要加入空格
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这段代码是用Java写的，不是Python。&lt;/strong&gt;（错误）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这段代码是用 Java 写的，不是 Python。&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这样的观感会更好，尤其是当你文字数量多了以后，空格可以很好区别中文和英文，方便阅读。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这段代码是用 Java 写的，不是Python，我现在需要把它上传到 Github 上保存，有需要的朋友可以随时下载修改这段 Java 代码。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;中文--数字-之间要加入空格&#34;&gt;中文 &amp;amp; 数字 之间要加入空格
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;今天购物花了5000元。&lt;/strong&gt;（错误）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;今天购物花了 5000 元。&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;和上面一样，会让中文和数字区别开来，方便阅读。&lt;/p&gt;
+&lt;h2 id=&#34;数字--单位-之间要加入空格&#34;&gt;数字 &amp;amp; 单位 之间要加入空格
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我的电脑硬盘有 2TB，SSD 一共有 16GB。&lt;/strong&gt;（错误）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我的电脑硬盘有 2 TB，SSD 一共有 16 GB。&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;需要注意：度数 / 百分比就不需要加空格。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;今天的室外温度是 24°。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;换了新的电脑，CPU 有 15% 的性能提升。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;标点符号&#34;&gt;标点符号
+&lt;/h1&gt;&lt;h2 id=&#34;不重复使用标点符号&#34;&gt;不重复使用标点符号
+&lt;/h2&gt;&lt;p&gt;重复使用标点符号会破坏句子的美观感。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;今天下午的课程竟然取消了！！！！！&lt;/strong&gt;（错误）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;今天下午的课程竟然取消了！&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;中文使用全形标点符号&#34;&gt;中文使用全形标点符号
+&lt;/h2&gt;&lt;p&gt;如果你不知道什么是全形和半形，可以看这个&lt;a class=&#34;link&#34; href=&#34;https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;全形和半形&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;嘿!今天的天气不错,要不要一起去看个电影.&lt;/strong&gt;（错误）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;嘿！今天的天气不错，要不要一起去看个电影。&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;遇到英文整句特殊名词使用半形标点&#34;&gt;遇到英文整句、特殊名词，使用半形标点
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我推荐你阅读《The Hitchhiker&amp;rsquo;s Guide to the Galaxy&amp;rsquo; by Douglas Adams》，这本书非常有趣。&lt;/strong&gt;（错误）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我推荐你阅读 &lt;em&gt;The Hitchhiker&amp;rsquo;s Guide to the Galaxy&amp;rsquo; by Douglas Adams&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;,这本书非常有趣。&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;乔布斯那句话怎么说的？「Stay hungry，stay foolish。」&lt;/strong&gt;（错误）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;乔布斯那句话怎么说的？「Stay hungry,stay foolish.」&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;名词&#34;&gt;名词
+&lt;/h1&gt;&lt;h2 id=&#34;专有名词使用正确的大小写&#34;&gt;专有名词使用正确的大小写
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这个代码是用 java 写的，不是用 python，并且会发布到 github 上。&lt;/strong&gt;（错误）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这个代码是用 Java 写的，不是用 Python，并且会发布到 Github 上。&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;不要使用乱七八糟的缩写&#34;&gt;不要使用乱七八糟的缩写
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我们需要一位熟悉 Ts、h5， 至少理解一直框架（如 RJS、 nextjs）的前端开发者。&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我们需要一位熟悉 TypeScript、HTML5， 至少理解一直框架（如 React、Next.js）的前端开发者。&lt;/strong&gt;（正确）&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
         <title>关于外语学习一些有效的练习方式</title>
         <link>https://guitar550.github.io/p/%E5%85%B3%E4%BA%8E%E5%A4%96%E8%AF%AD%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%BA%9B%E6%9C%89%E6%95%88%E7%9A%84%E7%BB%83%E4%B9%A0%E6%96%B9%E5%BC%8F/</link>
         <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
@@ -148,7 +241,7 @@
 &lt;h5 id=&#34;习惯用markdown语言来记录笔记2024&#34;&gt;习惯用Markdown语言来记录笔记（2024）
 &lt;/h5&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;h5 id=&#34;建立absidian知识库2024&#34;&gt;建立absidian知识库（2024）
+&lt;h5 id=&#34;建立absidian知识库-2024&#34;&gt;建立absidian知识库 （2024）
 &lt;/h5&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -209,7 +302,9 @@
 &lt;/h2&gt;&lt;p&gt;在日语中，关键词就是助词，分析这个助词此时在这句话起到什么作用。&lt;/p&gt;
 &lt;p&gt;如果是英语，可能会是&lt;/p&gt;
 &lt;h2 id=&#34;句型分析&#34;&gt;句型分析
-&lt;/h2&gt;&lt;p&gt;这个句子用到了什么句型。&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;这个句子用到了什么句型，我可以用一样的句型来造句吗？&lt;/p&gt;
+&lt;h2 id=&#34;用自己的话阐述&#34;&gt;用自己的话阐述
+&lt;/h2&gt;&lt;p&gt;这一句话还可以用什么方式表达，我能想出更简洁的表达方法吗？&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;实际分析案例&#34;&gt;实际分析案例
 &lt;/h1&gt;</description>
