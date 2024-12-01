@@ -3571,42 +3571,59 @@ Yes, I do.（是的，我有。）&lt;/p&gt;
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://guitar550.github.io/%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7/</guid>
-        <description>&lt;h2 id=&#34;笔记软件&#34;&gt;笔记软件
+        <description>&lt;blockquote&gt;
+&lt;h2 id=&#34;笔记软件&#34;&gt;笔记软件
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Wolai&lt;/li&gt;
 &lt;li&gt;Obsidian&lt;/li&gt;
 &lt;li&gt;VS Code（编程用）&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;网盘&#34;&gt;网盘
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;百度网盘&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;浏览器&#34;&gt;浏览器
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Chrome&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;任务管理类&#34;&gt;任务管理类
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;专注清单&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;播放器&#34;&gt;播放器
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;MPV&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;ppt&#34;&gt;PPT
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Keynote&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;办公软件&#34;&gt;办公软件
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;LibreOffice&lt;/li&gt;
-&lt;li&gt;PDF24&lt;/li&gt;
+&lt;li&gt;PDF 24&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;档案同步&#34;&gt;档案同步
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Syncthing&lt;/li&gt;
 &lt;li&gt;LanDrop&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;通讯软件&#34;&gt;通讯软件
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;微信&lt;/li&gt;
@@ -3614,47 +3631,64 @@ Yes, I do.（是的，我有。）&lt;/p&gt;
 &lt;li&gt;腾讯视频（上课用）&lt;/li&gt;
 &lt;li&gt;Line（不常用）&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;图片制作&#34;&gt;图片制作
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Krita&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;宿主软件daw&#34;&gt;宿主软件（DAW）
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Logic Pro&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;制谱软件&#34;&gt;制谱软件
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;MuseScore&lt;/li&gt;
 &lt;li&gt;Neck Diagrams（吉他指板图制作）&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;影片制作&#34;&gt;影片制作
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Final Cut Pro&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;网站制作&#34;&gt;网站制作
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Hugo（这个网站就是用Hugo制作）&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;ai&#34;&gt;AI
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;ChatGPT&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;订阅服务&#34;&gt;订阅服务
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Miji阅读&lt;/li&gt;
-&lt;li&gt;Moji辞书&lt;/li&gt;
+&lt;li&gt;Miji 阅读&lt;/li&gt;
+&lt;li&gt;Moji 辞书&lt;/li&gt;
 &lt;li&gt;百度网盘会员&lt;/li&gt;
-&lt;li&gt;Wolai会员&lt;/li&gt;
+&lt;li&gt;Wolai 会员&lt;/li&gt;
 &lt;li&gt;OUO VPN&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;h2 id=&#34;外语学习&#34;&gt;外语学习
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Rosetta Stone（偶尔使用）&lt;/li&gt;
-&lt;li&gt;Moji辞书 &amp;amp; 阅读&lt;/li&gt;
+&lt;li&gt;Moji 辞书 &amp;amp; 阅读&lt;/li&gt;
 &lt;li&gt;欧路词典&lt;/li&gt;
 &lt;li&gt;HiNative（看外语直播）&lt;/li&gt;
 &lt;li&gt;HelloTalk（跟老外聊天）&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
 </description>
         </item>
         <item>
