@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on 小威BLOG</title>
+        <title>Pages on 小威 BLGO</title>
         <link>https://guitar550.github.io/page/</link>
-        <description>Recent content in Pages on 小威BLOG</description>
+        <description>Recent content in Pages on 小威 BLGO</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -47,6 +47,9 @@
 &lt;/h5&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;h5 id=&#34;建立-absidian-知识库-2024&#34;&gt;建立 Absidian 知识库 （2024）
+&lt;/h5&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;用-javascrip-写了一个简约节拍器2024&#34;&gt;用 JavaScrip 写了一个简约节拍器（2024）
 &lt;/h5&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
