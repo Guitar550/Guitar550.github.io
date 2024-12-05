@@ -12,7 +12,7 @@
         <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
         
         <guid>https://guitar550.github.io/p/%E5%85%B3%E4%BA%8E%E6%96%87%E7%AB%A0%E6%8E%92%E7%89%88%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
-        <description>&lt;img src="https://guitar550.github.io/p/%E5%85%B3%E4%BA%8E%E6%96%87%E7%AB%A0%E6%8E%92%E7%89%88%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/1.jpg" alt="Featured image of post 关于文章排版的一些思考" /&gt;&lt;p&gt;这段时间我开始注意到一些好的文章排版会对阅读的效率和节奏产生影响，&lt;/p&gt;
+        <description>&lt;p&gt;这段时间我开始注意到一些好的文章排版会对阅读的效率和节奏产生影响，&lt;/p&gt;
 &lt;p&gt;所以我整理了一些可以很好改善一篇文章观感的技巧，并把这些对文章的排版方式运用到自己博客的文章中。&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;空格的运用&#34;&gt;「空格」的运用
@@ -2346,7 +2346,7 @@ Yes, I do.（是的，我有。）&lt;/p&gt;
 &lt;p&gt;这个阶段要&lt;strong&gt;应用模型来简化和拓展你的结构，同时也要拓展对信息的理解，包括信息的由来（问为什么？）以及与其他信息是怎么联系在一起的。&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;比如前面提到的公式。&lt;/p&gt;
-&lt;p&gt;一名整体性学习者会先去[[6 获取阶段|获取]]，然后[[7 理解阶段|理解]]公式本来的意思，接着开始拓展它。&lt;/p&gt;
+&lt;p&gt;一名整体性学习者会先去&lt;a class=&#34;link&#34; href=&#34;#%e8%8e%b7%e5%8f%96%e9%98%b6%e6%ae%b5&#34; &gt;获取&lt;/a&gt;，然后[&lt;a class=&#34;link&#34; href=&#34;#%e7%90%86%e8%a7%a3%e9%98%b6%e6%ae%b5&#34; &gt;理解&lt;/a&gt;公式本来的意思，接着开始拓展它。&lt;/p&gt;
 &lt;p&gt;他会问：
 公式是怎么来的？
 公式中的每个成分代表的真实含义是什么？
@@ -3398,7 +3398,10 @@ Yes, I do.（是的，我有。）&lt;/p&gt;
 &lt;h5 id=&#34;建立-absidian-知识库-2024&#34;&gt;建立 Absidian 知识库 （2024）
 &lt;/h5&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;h5 id=&#34;用-javascrip-写了一个简约节拍器2024&#34;&gt;用 JavaScrip 写了一个简约节拍器（2024）
+&lt;h5 id=&#34;用-javascrip-写了一个超简约节拍器2024&#34;&gt;用 JavaScrip 写了一个超简约节拍器（2024）
+&lt;/h5&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;h5 id=&#34;用-javascrip-写了一个超简约节奏生成器2024&#34;&gt;用 JavaScrip 写了一个超简约节奏生成器（2024）
 &lt;/h5&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -3412,10 +3415,10 @@ Yes, I do.（是的，我有。）&lt;/p&gt;
 &lt;h1 id=&#34;影片制作&#34;&gt;影片制作
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;
-&lt;h5 id=&#34;建立工作室演奏视频教学视频的拍摄打光环境单反参数调试2024&#34;&gt;建立工作室演奏视频、教学视频的拍摄打光环境、单反参数调试（2024）
+&lt;h5 id=&#34;运用-keynote-制作了影片动画-乌托邦鼓知识小课堂全部动画部分都是用-keynote-完成-2020&#34;&gt;运用 Keynote 制作了影片动画（ &lt;em&gt;&lt;strong&gt;乌托邦鼓知识小课堂全部动画部分都是用 Keynote 完成&lt;/strong&gt;&lt;/em&gt; ）（2020）
 &lt;/h5&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;h5 id=&#34;运用-keynote-制作了影片动画-乌托邦鼓知识小课堂全部动画部分都是用-keynote-完成-2020&#34;&gt;运用 Keynote 制作了影片动画（ &lt;em&gt;&lt;strong&gt;乌托邦鼓知识小课堂全部动画部分都是用 Keynote 完成&lt;/strong&gt;&lt;/em&gt; ）（2020）
+&lt;h5 id=&#34;建立工作室演奏视频教学视频的拍摄打光环境单反参数调试2024&#34;&gt;建立工作室演奏视频、教学视频的拍摄打光环境、单反参数调试（2024）
 &lt;/h5&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
