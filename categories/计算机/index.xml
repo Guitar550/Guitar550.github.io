@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>计算机 on 小威 BLGO</title>
-        <link>http://localhost:1313/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/</link>
+        <link>https://guitar550.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/</link>
         <description>Recent content in 计算机 on 小威 BLGO</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://guitar550.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>【Hugo】如何给你的网站设置二级域名</title>
-        <link>http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/</link>
+        <link>https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/</link>
         <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/</guid>
+        <guid>https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/</guid>
         <description>&lt;blockquote&gt;
-&lt;h1 id=&#34;imglistsvg-目录&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/list.svg&#34;
+&lt;h1 id=&#34;imglistsvg-目录&#34;&gt;&lt;img src=&#34;https://guitar550.github.io/img/list.svg&#34;
 	
 	
 	
@@ -42,10 +42,10 @@
 &lt;hr&gt;
 &lt;h1 id=&#34;购买域名&#34;&gt;购买域名
 &lt;/h1&gt;&lt;p&gt;在Namesilo、Godaddy等网站买好自己想买的域名（这个网站域名就是在Namesilo购买的，非常便宜，18元一年）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/1.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/1.PNG&#34;
 	width=&#34;1391&#34;
 	height=&#34;629&#34;
-	srcset=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/1_hu1654433623773745343.PNG 480w, http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/1_hu14040479808050433821.PNG 1024w&#34;
+	srcset=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/1_hu1654433623773745343.PNG 480w, https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/1_hu14040479808050433821.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -57,10 +57,10 @@
 &lt;h1 id=&#34;设置dns&#34;&gt;设置DNS
 &lt;/h1&gt;&lt;h3 id=&#34;步骤1-打开域名后台&#34;&gt;步骤1: 打开域名后台
 &lt;/h3&gt;&lt;p&gt;打开你购买的域名后台，进入&lt;strong&gt;Domain Manger&lt;/strong&gt;，点击这个蓝色的小球设置DNS&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/2.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/2.PNG&#34;
 	width=&#34;1068&#34;
 	height=&#34;267&#34;
-	srcset=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/2_hu14383693507185057628.PNG 480w, http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/2_hu9338030869816447503.PNG 1024w&#34;
+	srcset=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/2_hu14383693507185057628.PNG 480w, https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/2_hu9338030869816447503.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -71,10 +71,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;步骤2-设置自定义dns&#34;&gt;步骤2: 设置自定义DNS
 &lt;/h3&gt;&lt;p&gt;把本来默认设置好的DNS全部删除，加入自己设置的DNS，因为我是Github Page，所以可以点击下面的模板自动设置。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/3.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/3.PNG&#34;
 	width=&#34;959&#34;
 	height=&#34;98&#34;
-	srcset=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/3_hu8259664862464987263.PNG 480w, http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/3_hu13090672035036106728.PNG 1024w&#34;
+	srcset=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/3_hu8259664862464987263.PNG 480w, https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/3_hu13090672035036106728.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -119,10 +119,10 @@
 &lt;/h3&gt;&lt;p&gt;设置好后可以去&lt;a class=&#34;link&#34; href=&#34;https://dnschecker.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;DNS Checker&lt;/a&gt;，输入你买的域名网址检查是否指向正确。&lt;/p&gt;
 &lt;p&gt;DNS的更新需要等待10分钟左右，如果出现错误，可能是还没更新的问题，等一会就好了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/6.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/6.PNG&#34;
 	width=&#34;1388&#34;
 	height=&#34;688&#34;
-	srcset=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/6_hu18099411229496469467.PNG 480w, http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/6_hu13946947070679217323.PNG 1024w&#34;
+	srcset=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/6_hu18099411229496469467.PNG 480w, https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/6_hu13946947070679217323.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -134,10 +134,10 @@
 &lt;h1 id=&#34;github-page设置&#34;&gt;Github Page设置
 &lt;/h1&gt;&lt;h3 id=&#34;步骤1-打开settings&#34;&gt;步骤1: 打开Settings
 &lt;/h3&gt;&lt;p&gt;进入github，打开&lt;strong&gt;Settings&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/5.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/5.PNG&#34;
 	width=&#34;1056&#34;
 	height=&#34;184&#34;
-	srcset=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/5_hu15240952056540161966.PNG 480w, http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/5_hu5776729586354882979.PNG 1024w&#34;
+	srcset=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/5_hu15240952056540161966.PNG 480w, https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/5_hu5776729586354882979.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -148,10 +148,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;步骤2-配置二级域名&#34;&gt;步骤2: 配置二级域名
 &lt;/h3&gt;&lt;p&gt;打开&lt;strong&gt;Page&lt;/strong&gt;，把自己的二级域名贴到设定上，就完成了二级域名的设置了，现在就可以用你自己的二级域名打开网站了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/4.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/4.PNG&#34;
 	width=&#34;976&#34;
 	height=&#34;479&#34;
-	srcset=&#34;http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/4_hu4578840076764790397.PNG 480w, http://localhost:1313/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/4_hu4655909849965870111.PNG 1024w&#34;
+	srcset=&#34;https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/4_hu4578840076764790397.PNG 480w, https://guitar550.github.io/p/hugo%E5%A6%82%E4%BD%95%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E8%AE%BE%E7%BD%AE%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/4_hu4655909849965870111.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -164,10 +164,10 @@
         </item>
         <item>
         <title>【Hugo】Hugo网站在Github上的架设流程</title>
-        <link>http://localhost:1313/p/hugohugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
+        <link>https://guitar550.github.io/p/hugohugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</link>
         <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hugohugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</guid>
+        <guid>https://guitar550.github.io/p/hugohugo%E7%BD%91%E7%AB%99%E5%9C%A8github%E4%B8%8A%E7%9A%84%E6%9E%B6%E8%AE%BE%E6%B5%81%E7%A8%8B/</guid>
         <description>&lt;h2 id=&#34;使用主题&#34;&gt;使用主题
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
